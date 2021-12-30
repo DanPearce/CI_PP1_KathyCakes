@@ -7,12 +7,16 @@ body {
     margin: 0;
 }
 
-.nav-bar {
+nav {
     background-color: #ecedf4;
     padding: 1%;
     color: #3c4044;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
+    
+}
+
+.nav-bar {
     position: fixed;
     top: 0;
     left: 0;
@@ -29,4 +33,16 @@ body {
 .nav-bar a {
     text-decoration: none;
     color: #3c4044;
+}
+
+header {
+    text-align: center;
+    padding-top: 75px;
+    background-image: url(/assets/images/StockSnap_DRMAQNM3XT.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    margin: 0;
 }
