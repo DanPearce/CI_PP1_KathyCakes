@@ -46,3 +46,13 @@ header {
     width: 100%;
     margin: 0;
 }
+
+.about-us {
+    display: block;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #3c4044;
+    padding: 1% 5% 1% 5%;
+
+}
