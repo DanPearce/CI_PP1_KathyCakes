@@ -77,6 +77,20 @@ header {
     float: left;
 }
 
+.sig-1 a {
+    text-decoration: none;
+    color:#3c4044
+}
+
+.sig-2 a {
+    text-decoration: none;
+    color:#ecedf4;
+}
+.sig-3 a {
+    text-decoration: none;
+    color: #3c4044;
+}
+
 .sig-2 {
     background-color: #3c4044;
     color: #ecedf4;
