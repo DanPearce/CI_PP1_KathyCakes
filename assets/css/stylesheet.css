@@ -120,5 +120,6 @@ footer a {
     background-color: #ecedf4;
     color: #3c4044;
     text-align: center;
-    margin: 0;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
