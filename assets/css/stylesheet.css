@@ -172,3 +172,18 @@ footer a {
     color: #3c4044;
 }
 
+.ingredients {
+    background-color: #ecedf4;
+    color: #3c4044;
+    padding-left: 1%;
+    width: 24%;
+    float: left;
+}
+
+.instructions {
+    background-color: #ecedf4;
+    color: #3c4044;
+    padding-right: 1%;
+    width: 74%;
+    float: left;
+}
