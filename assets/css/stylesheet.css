@@ -82,6 +82,8 @@ header {
 footer {
     background-color: #3c4044;
     color: #ecedf4;
+    text-align: center;
+    font-size: 30px;
 }
 
 footer a {
@@ -89,11 +91,7 @@ footer a {
     color: #ecedf4;
 }
 
-.foot{
-    list-style-type: none;
-    display: flex;
-    justify-content: space-evenly;
-    font-size: 30px;
-
+#footerSignature {
+    font-size: 20px;
 }
 
