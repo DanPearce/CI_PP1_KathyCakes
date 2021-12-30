@@ -111,8 +111,14 @@ footer a {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50vh;
+    height: 45vh;
     width: 100%;
     margin: 0;
 }
 
+.recipes {
+    background-color: #ecedf4;
+    color: #3c4044;
+    text-align: center;
+    margin: 0;
+}
