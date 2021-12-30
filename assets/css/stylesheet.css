@@ -116,7 +116,7 @@ footer a {
     margin: 0;
 }
 
-.recipes {
+#recipes {
     background-color: #ecedf4;
     color: #3c4044;
     text-align: center;
@@ -125,7 +125,20 @@ footer a {
 }
 
 .recipe-1, .recipe-2, .recipe-3 {
+    background-color: #ecedf4;
+    color: #3c4044;
     text-align: center;
     width: 33%;
     float: left;
+    padding-right: 1%;
+}
+
+.recipe-4, .recipe-5, .recipe-6 {
+    background-color: #ecedf4;
+    color: #3c4044;
+    text-align: center;
+    width: 33%;
+    float: left;
+    padding-bottom: 1%;
+    padding-right: 1%;
 }
