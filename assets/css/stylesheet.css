@@ -123,3 +123,9 @@ footer a {
     padding-top: 1%;
     padding-bottom: 1%;
 }
+
+.recipe-1, .recipe-2, .recipe-3 {
+    text-align: center;
+    width: 33%;
+    float: left;
+}
