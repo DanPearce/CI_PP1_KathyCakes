@@ -163,3 +163,10 @@ footer a {
     width: 100%;
     margin: 0;
 }
+
+.recipe-pages {
+    background-color: #ecedf4;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
