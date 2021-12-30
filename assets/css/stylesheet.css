@@ -58,6 +58,11 @@ header {
 
 }
 
+.about-us a {
+    text-decoration: underline;
+    color: #ecedf4;
+}
+
 #signature {
     display: inline-block;
     text-align: center;
@@ -95,3 +100,6 @@ footer a {
     font-size: 20px;
 }
 
+.footerSignature a {
+    text-decoration: underline;
+}
