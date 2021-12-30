@@ -54,6 +54,7 @@ header {
     margin-right: 20px;
     background-color: #3c4044;
     padding: 1% 10% 1% 10%;
+    height: 30vh;
 
 }
 
@@ -65,22 +66,15 @@ header {
     width: 100%;
 }
 
-.sig-1{
-    display: inline-block;
+.sig-1, .sig-2, .sig-3 {
     text-align: center;
     width: 33%;
+    float: left;
+    height: 40vh;
 }
 
 .sig-2 {
-    display: inline-block;
-    text-align: center;
     background-color: #3c4044;
     color: #ecedf4;
-    width: 33%;
 }
 
-.sig-3 {
-    display: inline-block;
-    text-align: center;
-    width: 33%;
-}
