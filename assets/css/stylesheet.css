@@ -88,18 +88,16 @@ footer {
     background-color: #3c4044;
     color: #ecedf4;
     text-align: center;
-    font-size: 45px;
+    font-size: 20px;
 }
 
 footer a {
     text-decoration: none;
     color: #ecedf4;
+    font-size: 45px;
 }
 
-.footerSignature {
-    font-size: 20px;
-}
-
-.footerSignature a {
+#footerSignature a {
     text-decoration: underline;
+    font-size: 20px;
 }
