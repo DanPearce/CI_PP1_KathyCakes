@@ -64,3 +64,23 @@ header {
     color: #3c4044;
     width: 100%;
 }
+
+.sig-1{
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+}
+
+.sig-2 {
+    display: inline-block;
+    text-align: center;
+    background-color: #3c4044;
+    color: #ecedf4;
+    width: 33%;
+}
+
+.sig-3 {
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+}
