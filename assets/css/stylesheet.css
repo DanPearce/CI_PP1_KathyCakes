@@ -88,7 +88,9 @@ footer {
     background-color: #3c4044;
     color: #ecedf4;
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
 }
 
 footer a {
@@ -99,7 +101,8 @@ footer a {
 
 #footerSignature a {
     text-decoration: underline;
-    font-size: 20px;
+    font-size: 15px;
+    text-transform: lowercase;
 }
 
 /* recipes.html page styles */
