@@ -56,3 +56,12 @@ header {
     padding: 1% 5% 1% 5%;
 
 }
+
+#signature {
+    display: inline-block;
+    text-align: center;
+    background-color: #ecedf4;
+    color: #3c4044;
+    width: 100%;
+}
+
