@@ -10,8 +10,8 @@ body {
 #logo {
     font-family: 'Meow Script', cursive !important;
     text-transform: none !important;
-    font-size: 1.5em;
-    padding-top: 0 !important;
+    font-size: 20px;
+    padding: 0;
 }
 
 nav {
