@@ -7,6 +7,12 @@ body {
     margin: 0;
 }
 
+#logo {
+    font-family: 'Meow Script', cursive !important;
+    text-transform: none !important;
+    font-size: 1.5em;
+}
+
 nav {
     background-color: #ecedf4;
     padding: 1%;
@@ -206,3 +212,4 @@ footer a {
     width: 65%;
     float: left;
 }
+
