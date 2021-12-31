@@ -11,11 +11,12 @@ body {
     font-family: 'Meow Script', cursive !important;
     text-transform: none !important;
     font-size: 1.5em;
+    padding-top: 0 !important;
 }
 
 nav {
     background-color: #ecedf4;
-    padding: 1%;
+    padding: 1% 1% 0 1%;
     color: #3c4044;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
