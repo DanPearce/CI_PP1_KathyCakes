@@ -200,10 +200,15 @@ footer a {
 
 .ingredients {
     background-color: #ecedf4;
-    color: #3c4044;
-    padding: 0 5% 5% 5%;
+    color: #ecedf4;
+    padding: 0 5% 0% 5%;
     width: 15%;
     float: left;
+}
+
+.ingredients-bg {
+    background-color: #3c4044;
+    padding-right: 0 5% 0 5%;
 }
 
 .instructions {
