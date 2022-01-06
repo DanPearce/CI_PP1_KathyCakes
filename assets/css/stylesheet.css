@@ -192,6 +192,18 @@ footer a {
     margin: 0;
 }
 
+.recipes-bpsm-header {
+    text-align: center;
+    padding-top: 75px;
+    background-image: url(/assets/images/StockSnap_FQ5PQADGZ2.jpg);
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+    width: 100%;
+    margin: 0;
+}
+
 .recipe-pages {
     background-color: #ecedf4;
     text-align: center;
