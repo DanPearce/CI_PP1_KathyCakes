@@ -179,7 +179,7 @@ footer a {
     width: 34%;
 }
 
-/* Apple Cinnamon Crumble Cupcakes page */
+/* All Indidivual Recipe pages */
 .recipes-accc-header {
     text-align: center;
     padding-top: 75px;
@@ -196,6 +196,18 @@ footer a {
     text-align: center;
     padding-top: 75px;
     background-image: url(/assets/images/StockSnap_FQ5PQADGZ2.jpg);
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+    width: 100%;
+    margin: 0;
+}
+
+.recipes-ccpc-header{
+    text-align: center;
+    padding-top: 75px;
+    background-image: url(/assets/images/StockSnap_AVQS8DBY2Q.jpg);
     background-position: 50% 30%;
     background-repeat: no-repeat;
     background-size: cover;
