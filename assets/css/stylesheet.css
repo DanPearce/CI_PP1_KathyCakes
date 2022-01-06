@@ -215,6 +215,39 @@ footer a {
     width: 100%;
     margin: 0;
 }
+.recipes-gsll-header{
+    text-align: center;
+    padding-top: 75px;
+    background-image: url(/assets/images/StockSnap_EQRBUSHVRN.jpg);
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+    width: 100%;
+    margin: 0;
+}
+.recipes-pgm-header{
+    text-align: center;
+    padding-top: 75px;
+    background-image: url(/assets/images/StockSnap_SVKREBA5TA.jpg);
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+    width: 100%;
+    margin: 0;
+}
+.recipes-rtc-header{
+    text-align: center;
+    padding-top: 75px;
+    background-image: url(/assets/images/StockSnap_VG2DQ2RTYC.jpg);
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+    width: 100%;
+    margin: 0;
+}
 
 .recipe-pages {
     background-color: #ecedf4;
