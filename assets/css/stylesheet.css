@@ -340,7 +340,7 @@ header {
     color: #3c4044;
     max-width: 400px;
     height: 500px;
-    padding: 5% 15% 15% 15%;
+    padding: 5% 10% 10% 10%;
     margin: auto;
     border: 2px solid #3c4044;
 }
@@ -362,4 +362,14 @@ header {
     height: 250px;
     margin: 5px 0 20px 0;
     border: 2px solid #3c4044;
+}
+
+.text-input-big:hover{
+    border-color: rgba(60, 64, 68, 0.5)
+    ;
+}
+
+.text-input-small:hover{
+    border-color: rgba(60, 64, 68, 0.5)
+    ;
 }
