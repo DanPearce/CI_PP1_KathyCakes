@@ -365,11 +365,22 @@ header {
 }
 
 .text-input-big:hover{
-    border-color: rgba(60, 64, 68, 0.5)
-    ;
+    border-color: rgba(60, 64, 68, 0.5);
 }
 
 .text-input-small:hover{
-    border-color: rgba(60, 64, 68, 0.5)
-    ;
+    border-color: rgba(60, 64, 68, 0.5);
+}
+
+.submit-message {
+    border-radius: 2px;
+    padding: 10px 15px 10px 15px;
+    background-color: #3c4044;
+    color:#ecedf4;
+    font-size: 90%;
+}
+
+.submit-message:hover {
+    background-color:#ecedf4;
+    color: #3c4044;
 }
