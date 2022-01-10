@@ -303,6 +303,11 @@ footer a {
     width: 100%;
     padding-top: 1%;
     padding-bottom: 1%;
-    height: 500px;
+    height: 700px;
+}
+
+iframe {
+    background-color: #3c4044;
+    padding: 5px;
 }
 
