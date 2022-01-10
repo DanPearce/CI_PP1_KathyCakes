@@ -20,6 +20,7 @@ nav {
     color: #3c4044;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
+    z-index: 4;
     
 }
 
@@ -335,3 +336,30 @@ header {
     height: 800px;
 }
 
+.form-area {
+    color:#ecedf4;
+    background-color: rgba(60, 64, 68, 0.6);
+    max-width: 400px;
+    position: relative;
+    padding: 5% 15% 15% 15%;
+    margin: auto;
+}
+
+.text-input-small {
+    background: transparent;
+    color: #ecedf4;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #ecedf4;
+
+}
+
+.text-input-big {
+    background: transparent;
+    color: #ecedf4;
+    width: 100%;
+    height: 250px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #ecedf4;
+}
