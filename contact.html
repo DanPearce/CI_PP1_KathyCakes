@@ -17,14 +17,28 @@
             </ul>
         </nav>
         <header class="contact-header">
-            <h1>Contact Us</h1>
-                <h3>Please use the form below to get in touch with any business related quieries or customer orders.</h3>
+                <h1>Contact Us</h1>
+                <h2>Please use the form below to get in touch with any business related quieries or customer orders.</h2>
         </header>
         <section class="contact-us">
-            <div>
-                
+            <div class="form-area">
+            <form method="POST" action="#" class="contact-form">
+                <h3>Get in touch: </h3>
+                <label for="firstName">First Name</label>
+                <input id="firstName" name="first_name" type="text" class="text-input-small" required>
+
+                <label for="lastName">Last Name</label>
+                <input id="lastName" name="last_name" type="text" class="text-input-small" required>
+
+                <label for="firstName">Email Address</label>
+                <input id="email" name="email_address" type="email" class="text-input-small" required>
+
+                <input id="message" name="message" type="text" class="text-input-big" placeholder="Please type your message here..." required>
+
+                <input class="submit-message" type="submit" value="Send Message!">
+
+            </form>
             </div>
-            <form></form>
         </section>
             
         <footer>
