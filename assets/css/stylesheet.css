@@ -243,7 +243,7 @@ footer a {
     text-align: center;
     padding-top: 75px;
     background-image: url(/assets/images/StockSnap_VG2DQ2RTYC.jpg);
-    background-position: 50% 30%;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     height: 45vh;
@@ -261,7 +261,26 @@ footer a {
     color: #3c4044;
 }
 
-.recipe-pages-pgm {
+.recipe-pages p {
+    font-size: 1.5em;
+    margin: 20px;
+}
+
+.recipe-pages-rtc p {
+    font-size: 1.5em;
+    margin: 20px;
+}
+
+.underline {
+    width: 80%;
+    height: 3px;
+    background-color: #3c4044;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-pages-rtc {
     background-color: #ecedf4;
     text-align: center;
     width: 100%;
