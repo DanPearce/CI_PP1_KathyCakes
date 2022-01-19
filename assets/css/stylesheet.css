@@ -298,6 +298,7 @@ footer a {
     float: left;
     height: auto;
     text-align: left;
+    
 }
 
 .ingredients h3 h4 {
@@ -306,9 +307,11 @@ footer a {
 }
 
 .ingredients-bg {
-    background-color: #3c4044;
-    padding-right: 0 5% 0 5%;
+    background-color: rgba(60, 64, 68, .6);
+    padding: 0 10px 0 10px;
+    border: #3c4044 dashed;
 }
+
 h3 {
     text-align: center;
     text-decoration: underline;
