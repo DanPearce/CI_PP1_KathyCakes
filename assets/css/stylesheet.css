@@ -297,11 +297,25 @@ footer a {
     width: 15%;
     float: left;
     height: auto;
+    text-align: left;
+}
+
+.ingredients h3 h4 {
+    text-align: center;
+    text-decoration: underline;
 }
 
 .ingredients-bg {
     background-color: #3c4044;
     padding-right: 0 5% 0 5%;
+}
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h4 {
+    text-decoration: underline;
 }
 
 .instructions {
@@ -311,7 +325,11 @@ footer a {
     width: 65%;
     float: left;
     height: auto;
+    text-align: left;
 }
+
+ 
+
 
 /* Find Us Page */
 
