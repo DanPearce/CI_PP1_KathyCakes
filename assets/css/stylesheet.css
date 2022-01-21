@@ -491,4 +491,30 @@ header {
         margin: 0;
     }
 
+    .recipe-1, .recipe-2 {
+        background-color: #ecedf4;
+        color: #3c4044;
+        text-align: center;
+        width: 50%;
+        float: left;
+        padding-bottom: 1%;
+    }
+
+    .recipe-3, .recipe-4 {
+        background-color: #ecedf4;
+        color: #3c4044;
+        text-align: center;
+        width: 50%;
+        float: left;
+        padding-bottom: 1%;
+    }
+
+    .recipe-5, .recipe-6 {
+        background-color: #ecedf4;
+        color: #3c4044;
+        text-align: center;
+        width: 50%;
+        float: left;
+        padding-bottom: 1%;
+    }
 }
