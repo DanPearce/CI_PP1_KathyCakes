@@ -517,4 +517,17 @@ header {
         float: left;
         padding-bottom: 1%;
     }
+
+    .ingredients {
+        width: 30%;
+
+    }
+
+    .instructions {
+        width: 40%;
+    }
+
+    .recipe-pages {
+        height: 1000px;
+    }
 }
