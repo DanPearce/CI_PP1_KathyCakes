@@ -262,6 +262,16 @@ footer a {
     color: #3c4044;
 }
 
+.recipe-accc-page {
+    background-color: #ecedf4;
+    text-align: center;
+    width: 100%;
+    height: 900px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #3c4044;
+}
+
 .recipe-pages p {
     font-size: 1.5em;
     margin: 20px;
@@ -437,4 +447,20 @@ header {
 .submit-message:hover {
     background-color:#ecedf4;
     color: #3c4044;
+}
+
+@media only screen and (max-width:1770px) {
+    .recipe-pages-rtc {
+        height: 1560px;
+    }
+    .recipe-accc-page {
+        background-color: #ecedf4;
+        text-align: center;
+        width: 100%;
+        height: 1460px;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        color: #3c4044;
+    }
+    }
 }
