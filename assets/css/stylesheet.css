@@ -292,6 +292,11 @@ footer a {
     margin: 20px;
 }
 
+.recipe-pgm-page p {
+    font-size: 1.5em;
+    margin: 20px;
+}
+
 .underline {
     width: 80%;
     height: 3px;
@@ -530,4 +535,42 @@ header {
     .recipe-pages {
         height: 1000px;
     }
+}
+
+@media only screen and (max-width:950px){
+    header, .recipes-header, .recipes-rtc-header, .recipes-pgm-header, .recipes-gsll-header, .recipes-ccpc-header, .recipes-bpsm-header, .recipes-accc-header {
+        height: 35vh;
+    }
+
+    .recipe-1 {
+        width: 100%;
+    }
+
+    .recipe-2 {
+        width: 100%;
+    }
+
+    .recipe-3 {
+        width: 100%;
+    }
+
+    .recipe-4 {
+        width: 100%;
+    }
+
+    .recipe-5 {
+        width: 100%;
+    }
+
+    .recipe-6 {
+        width: 100%;
+    }
+
+    .ingredients, .instructions {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    
 }
