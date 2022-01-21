@@ -318,7 +318,6 @@ footer a {
 }
 
 .ingredients {
-    background-color: #ecedf4;
     color: #ecedf4;
     padding: 0 5% 0% 5%;
     width: 15%;
@@ -588,7 +587,6 @@ header {
     .iframe-1, .iframe-2{
         width: 90%;
         padding: 0;
-        float: clear;
     }
 
     .iframe-2 {
