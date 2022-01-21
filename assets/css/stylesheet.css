@@ -459,6 +459,7 @@ header {
     color: #3c4044;
 }
 
+/* Responsive Design */
 @media only screen and (max-width:1770px) {
     .recipe-pages-rtc {
         height: 1560px;
@@ -479,4 +480,15 @@ header {
     .recipe-pgm-page {
         height: 1000px;
     }
+}
+
+@media only screen and (max-width:1200px) {
+
+    .sig-1, .sig-2, .sig-3 {
+        text-align: center;
+        width: 100%;
+        float: left;
+        margin: 0;
+    }
+
 }
