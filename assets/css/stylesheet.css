@@ -599,12 +599,20 @@ header {
         margin-left: 5%;
         text-align: center;
     }
+
+    .form-area {
+        padding-bottom: 15%;
+    }
     
 }
 
 @media only screen and (max-width:650px) {
     iframe {
         width: 300px;
+    }
+
+    .form-area {
+        padding-bottom: 25%;
     }
 }
 
@@ -620,5 +628,24 @@ header {
     img {
         width: 250px;
         height: 150px;
+    }
+    
+    .form-area {
+        padding-bottom: 30%;
+        width: 70%;
+    }
+
+    h1, h2 {
+        font-size: 1em;
+    }
+    ul {
+        padding: 0;
+    }
+   #logo {
+       font-size: 20px;
+       padding-right: 5px;
+   }
+    footer {
+        font-size: 1em;
     }
 }
