@@ -43,6 +43,10 @@ nav {
     color: #3c4044;
 }
 
+ul {
+    padding: 0;
+}
+
 header {
     text-align: center;
     padding-top: 75px;
@@ -298,6 +302,11 @@ footer a {
 }
 
 .recipe-pgm-page p {
+    font-size: 1.5em;
+    margin: 20px;
+}
+
+.recipe-accc-page p {
     font-size: 1.5em;
     margin: 20px;
 }
@@ -602,6 +611,7 @@ header {
 
     .form-area {
         padding-bottom: 15%;
+        width: 70%;
     }
     
 }
@@ -613,6 +623,12 @@ header {
 
     .form-area {
         padding-bottom: 25%;
+        width: 70%;
+    }
+
+    #logo {
+        font-size: 20px;
+        padding-right: 5px;
     }
 }
 
@@ -638,6 +654,22 @@ header {
     h1, h2 {
         font-size: 1em;
     }
+
+    .recipe-pages p {
+        font-size: 1em;
+    }
+
+    .recipe-accc-page p {
+        font-size: 1em;
+    }
+    .recipe-pages-rtc p {
+        font-size: 1em;
+    }
+
+    .recipe-pgm-page p {
+        font-size: 1em;
+    }
+
     ul {
         padding: 0;
     }
