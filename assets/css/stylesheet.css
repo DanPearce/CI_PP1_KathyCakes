@@ -490,6 +490,45 @@ header {
     color: #3c4044;
 }
 
+/* 404 Page */
+
+.error {
+    height: 500px;
+    width: 100%;
+    background-color: #ecedf4;
+    text-align: center;
+}
+
+.kath {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.katherine {
+    width: auto;
+    padding: 25px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+.error-div {
+    color: #3c4044;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.error-index a {
+    text-decoration: none;
+    background-color: #3c4044;
+    color: #ecedf4;
+    padding: 5px;
+    
+}
+
 /* Responsive Design */
 @media only screen and (max-width:1770px) {
     .recipe-pages-rtc {
