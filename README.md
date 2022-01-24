@@ -3,8 +3,8 @@ Developed by, Dan Pearce
 
 [View the live site](https://danpearce.github.io/CI_PP1_KathyCakes/)
 
-![Responsive](/docs/responsive/responsive-index.png)
-![Responsive-rtc](/docs/responsive/responsive-rtc.png)
+![Responsive](docs/responsive/responsive-index.png)
+![Responsive-rtc](docs/responsive/responsive-rtc.png)
 
 KathyCakes is a site that helps to encourage people to bake and create their own versions of the popular dishes from the KathyCakes Cafe. The website is intended to be a hub of information about the cafe and is here to help people get in touch with the cafe. The site offers a range of recipes too to help encourage people to try it at home themselves!
 
@@ -131,7 +131,7 @@ This page has been implemented to provide a fall back in case of input error to 
 The initial styling of colour comes from the header hero image of which the color #3c4044 can be found amongst the background in some variation. I thought this would be a great color to use as it's a charcoal grey which falls easily on the eyes. I also decided to go with #ecedf4 as the off white to counter balance this colour. These two colours are used throughout the site and stay consistent with the theme. 
 
 I used WEBAIM.org to test the contrast of the two colors. 
-![Colours](/docs/validation/colour.png)
+![Colours](docs/validation/colour.png)
 
 
 ### Fonts
@@ -145,46 +145,46 @@ I used [favicon.io](https://favicon.io/) to create the favicon icons for the sit
 ### Navigation Bar & Footer
 - The navigation and footer sections can be found on all pages. These are here for ease of access around the site and to showcase social media sections at all times.
 - The nav bar is consistently placed at the top of the webpage for ease of access around the site. This is fixed into place no matter which page you visit!
-![Nav-Bar](/docs/features/feat-nav.png)
-![Footer](/docs/features/feat-foot.png)
+![Nav-Bar](docs/features/feat-nav.png)
+![Footer](docs/features/feat-foot.png)
 User Stories Implementation: 2, 7, 8, 9
 
 ### Home About Us Section
 - The Home/About Us Section is a key area to get information about the bakery.
 - The section provides detail about how the bakery started, and also features a baked good at the top of the page.
 - The section is intended to provide users with some background so they can get familiar with the KathyCakes.
-![Home](/docs/features/feat-index.png)
+![Home](docs/features/feat-index.png)
 User Stories Implementation: 1, 10, 15
 
 ### Signature Recipes Section
 - The Signature Recipes Section is here to highlight the bakery's featured recipes of the season.
 - The section is featured on the index page and lets customers know which dishes we think they should try out!
-![Signature](/docs/features/feat-signature.png)
+![Signature](docs/features/feat-signature.png)
 User Stories Implementation: 8, 9, 13
 
 ### Recipes Page
 - The Recipes Page is the hub for all of the recipes that is offered on the site.
 - The page styles according to screen size and offers users a range to choose from.
-![Recipes](/docs/features/feat-recipes.png)
+![Recipes](docs/features/feat-recipes.png)
 User Stories Implementation: 6, 8, 9, 14
 
 ### Individual Recipe Page's
 - The Individual Recipe Page's are all unique and there are six of them in total.
 - The recipes are featured with their own unique hero image to really highlight the food on offer.
 - These pages are designed with the user in mind to keep ingredients and instructions sectioned for ease of use.
-![Recipes-Individual](/docs/features/feat-recipes-indiv.png)
+![Recipes-Individual](docs/features/feat-recipes-indiv.png)
 User Stories Implementation: 8
 
 ### Map
 - The Map allows us to pinpoint where the bakery is right on a map which is featured on the users device.
 - The Map is using the most popular online map in the world by Google and also features the address for more old school customers.
-![Map](/docs/features/feat-map.png)
+![Map](docs/features/feat-map.png)
 User Stories Implementation: 3, 11
 
 ### Contact Form
 - The Contact Form has been implemented as a way for customers to get in contact with KathyCakes with ease.
 - The form can be used to enquire about orders or to leave feedback to the bakery. 
-![Contact](/docs/features/feat-contact.png)
+![Contact](docs/features/feat-contact.png)
 User Stories Implementation: 4, 5, 12
 
 ## Technologies
@@ -201,3 +201,79 @@ User Stories Implementation: 4, 5, 12
 - [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
 - [Google Fonts](https://fonts.google.com/)
 - [Favicon.io](https://favicon.io/)
+
+## Validation and Testing
+
+### HTML Validation
+All of the HTML pages were tested using the [W3C Markup Validation Service] in order validate the correct function of this site. All pages have passed with no errors or warnings.
+
+<details><summary>Home Page</summary>
+<img src="docs/validation/index-validation.png">
+</details>
+<details><summary>Recipes Page</summary>
+<img src="docs/validation/recipes-validation.png">
+</details>
+<details><summary>Apple & Cinnamon Crumble Cupcakes Page</summary>
+<img src="docs/validation/accc-validation.png">
+</details>
+<details><summary>Banana & Pumpkin Seeded Muffins Page</summary>
+<img src="docs/validation/bpsm-validation.png">
+</details>
+<details><summary>Chocolate Chip & Peanut Cookies Page</summary>
+<img src="docs/validation/ccpc-validation.png">
+</details>
+<details><summary>Grandma's Signature Lemon Loaf Page</summary>
+<img src="docs/validation/gsll-validation.png">
+</details>
+<details><summary>Pink Grapefruit Muffins Page</summary>
+<img src="docs/validation/pgm-validation.png">
+</details>
+<details><summary>Raspberry Twist Cupcakes Page</summary>
+<img src="docs/validation/rtc-validation.png">
+</details>
+<details><summary>Find Us Page</summary>
+<img src="docs/validation/find-validation.png">
+</details>
+<details><summary>Contact Us Page</summary>
+<img src="docs/validation/contact-validation.png">
+</details>
+
+
+### CSS Validation
+The [W3C Jigsaw Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the correct CSS of this website. The CSS has passed with no errors
+<details><summary>CSS</summary>
+<img src="docs/validation/css-validation.png">
+</details>
+
+### Accessibility Validation
+The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was used to test the accesibility function of the website, all pages have passed with no errors.
+<details><summary>Home Page</summary>
+<img src="docs/validation/access-index.png">
+</details>
+<details><summary>Recipes Page</summary>
+<img src="docs/validation/access-recipes.png">
+</details>
+<details><summary>Apple & Cinnamon Crumble Cupcakes Page</summary>
+<img src="docs/validation/access-accc.png">
+</details>
+<details><summary>Banana & Pumpkin Seeded Muffins Page</summary>
+<img src="docs/validation/access-bpsm.png">
+</details>
+<details><summary>Chocolate Chip & Peanut Cookies Page</summary>
+<img src="docs/validation/access-ccpc-.png">
+</details>
+<details><summary>Grandma's Signature Lemon Loaf Page</summary>
+<img src="docs/validation/access-gsll.png">
+</details>
+<details><summary>Pink Grapefruit Muffins Page</summary>
+<img src="docs/validation/access-pgm.png">
+</details>
+<details><summary>Raspberry Twist Cupcakes Page</summary>
+<img src="docs/validation/access-rtc.png">
+</details>
+<details><summary>Find Us Page</summary>
+<img src="docs/validation/access-find.png">
+</details>
+<details><summary>Contact Us Page</summary>
+<img src="docs/validation/access-contact.png">
+</details>
