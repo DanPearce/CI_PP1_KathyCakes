@@ -8,7 +8,7 @@ Developed by, Dan Pearce
 
 KathyCakes is a site that helps to encourage people to bake and create their own versions of the popular dishes from the KathyCakes Cafe. The website is intended to be a hub of information about the cafe and is here to help people get in touch with the cafe. The site offers a range of recipes too to help encourage people to try it at home themselves!
 
-The site is designed with ease in mind and is easy to naviagte for all ages. With use of high quaity images to showcase the Cafe and the end goal purpose of attracting more sales. 
+The site is designed with ease in mind and is easy to navigate for all ages. With use of high quality images to showcase the cafe and with the end goal purpose of attracting more sales. 
 
 ##Content
 1. [Site Goals & Customer Experience] (#site-goals-&-customer-experience)
@@ -90,3 +90,31 @@ The site is designed with ease in mind and is easy to naviagte for all ages. Wit
 14. As an owner, I want customers to be able to find all of our recipes easily.
 15. As an owner, I want customers to find out about how we started.
 
+##Design 
+
+###Structure
+I wanted the structure of the site to be easy to navigate with clear headings and sections to split the pages up while also staying consistent with design. The website has a total of 11 pages 4 of which you have access to at all times using the navigation bar, 6 which are recipe pages and a 404 page.
+
+####Nav Bar Pages
+These pages are what I would consider to be the 'most popular' pages, they include key information about the bakery.
+- 'KathyCakes' index.html to provide about us information and featured recipes.
+- recipes.html to provide a place to find all recipes featured on the site.
+- find.html to provide a page to give location information for the bakery.
+- contact.html to provide a page for customers to get in touch with KathyCakes.
+
+####Recipe Pages, Individual
+The 6 individual recipe pages are each unique and provide information that is specifically for each recipe. They all include a detailed image and instructions on how to make each peice.
+
+####404 Page
+This page has been implemented to provide a fall back in case of input error to ensure the user can remain on the site easily.
+
+###Wireframes
+<details><summary></summary>
+<img src="">
+</details>
+
+
+###Colour
+
+
+###Fonts
