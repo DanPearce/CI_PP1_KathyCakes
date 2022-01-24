@@ -420,3 +420,22 @@ The project was tested and veiwed on the following browsers with no errors:
 <details><summary>Form Error</summary>
 <img src="docs/validation/error-access-contact.png">
 </details>
+
+## Deployment
+This website was deployed using GitHub Pages by using the following steps:
+1. I went to GitHub.com and from the left hand side I clikced on this repository.
+2. I navigated to the Settings section.
+3. I scrolled down to the Pages section.
+4. In the source drop down I selected main, and (root) and then clikced save.
+5. This proceed to generate a site using this repo.
+6. I waited 10 minutes to allow the site to load, then after waiting a link appeared that brings us to the live site. 
+
+## Credits
+
+### Images
+
+### Recipes
+
+### Code
+
+## Acknowledgements
