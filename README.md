@@ -109,8 +109,20 @@ The 6 individual recipe pages are each unique and provide information that is sp
 This page has been implemented to provide a fall back in case of input error to ensure the user can remain on the site easily.
 
 ###Wireframes
-<details><summary></summary>
-<img src="">
+<details><summary>Home Page</summary>
+<img src="docs/wireframes/index.png">
+</details>
+<details><summary>Recipes Page</summary>
+<img src="docs/wireframes/recipes.png">
+</details>
+<details><summary>Individual Recipe Page's</summary>
+<img src="docs/wireframes/individual-recipes.png">
+</details>
+<details><summary>Find Us Page</summary>
+<img src="docs/wireframes/find.png">
+</details>
+<details><summary>Contact Us Page</summary>
+<img src="docs/wireframes/contact.png">
 </details>
 
 
