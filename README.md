@@ -6,8 +6,8 @@ Developed by, Dan Pearce
 ![Responsive](/docs/responsive/responsive-index.png)
 ![Responsive-rtc](/docs/responsive/responsive-rtc.png)
 
-This Project is my first with Code Institute, and is here to showcase my knowledge in HTML and CSS. The name and inspiration for the project is from my good friend Kath, who in real life is an excellent baker. So this is what I imagined her 'real-life' bakery website would look like. 
+KathyCakes is a site that helps to encourage people to bake and create their own versions of the popular dishes from the KathyCakes Cafe. The website is intended to be a hub of information about the cafe and is here to help people get in touch with the cafe. The site offers a range of recipes too to help encourage people to try it at home themselves!
 
-The website is intended for people to get more information about the bakery and to also showcase some of "Kath"'s recipes. The site is designed with ease in mind and should be easily accessible to all. 
+The site is designed with ease in mind and is easy to naviagte for all ages. With use of high quaity images to showcase the Cafe and the end goal purpose of attracting more sales. 
 
 ##Content
