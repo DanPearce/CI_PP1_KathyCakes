@@ -24,6 +24,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
     2. [Wireframes](#wireframes)
     3. [Colour](#colour)
     4. [Fonts](#fonts)
+    5. [Icons](#icons)
 4. [Website Features](#features)
 5. [Technologies](#technologies)
     1. [Languages](#languages)
@@ -134,3 +135,7 @@ I used WEBAIM.org to test the contrast of the two colors.
 
 
 ### Fonts
+I have used three fonts in the creation of this website, [Meow Script](https://fonts.google.com/specimen/Meow+Script) for the Logo, as this gives a more unique feel. [Montserrat](https://fonts.google.com/specimen/Montserrat) for the navigational sections in uppercase as this to me felt like it stood out. Finally [Nunito](https://fonts.google.com/specimen/Nunito) was used for the main body sections as I felt this made the site easy to read and not too harsh on the eye.
+
+### Icons
+I used [favicon.io](https://favicon.io/) to create the favicon icons for the site with the [Meow Script](https://fonts.google.com/specimen/Meow+Script) font to stay consistent with styling. I also used icons from [Font Awesome](https://fontawesome.com/) to add the logos for social media networks in the footer.
