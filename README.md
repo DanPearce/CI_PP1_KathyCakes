@@ -127,6 +127,10 @@ This page has been implemented to provide a fall back in case of input error to 
 
 
 ### Colour
+The initial styling of colour comes from the header hero image of which the color #3c4044 can be found amongst the background in some variation. I thought this would be a great color to use as it's a charcoal grey which falls easily on the eyes. I also decided to go with #ecedf4 as the off white to counter balance this colour. These two colours are used throughout the site and stay consistent with the theme. 
+
+I used WEBAIM.org to test the contrast of the two colors. 
+![Colours](/docs/validation/colour.png)
 
 
 ### Fonts
