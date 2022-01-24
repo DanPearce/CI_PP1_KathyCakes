@@ -282,90 +282,97 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 1. As a user, I want to easily find information about KathyCakes.
 - Information about KathyCakes can easily be found right on the index.html page, either by scrolling down slightly depending on screen size or right on the landing page without movement.
 <details><summary>User Story 1</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-1-10-15.png">
 </details>
 
 2. As a user, I want to easily navigate throughout the site.
 - The navigation bar is at the top of the website and is fixed into place, this is for ease of access on all web pages and all screen sizes.
 <details><summary>User Story 2</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-2.png">
 </details>
 
 3. As a user, I want to find information on how to find the bakery.
 - The Find Us page is dedicated for users to find the bakery, this is located in the nav bar for easy access.
 <details><summary>User Story 3</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-3-11.png">
+<img src="/user-testing-map.png">
 </details>
 
 4. As a user, I want to find a way to get in contact with KathyCakes about an order.
 - The Contact Us Page is dedicated for users to contact the bakery, located on the nav bar, this can be used for orders.
 <details><summary>User Story 4</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-4-5-12.png">
+<img src="/user-testing-form.png">
 </details>
 
 5. As a user, I want to find a way to leave feedback to KathyCakes
 - The Contact Us Page is dedicated for users to contact the bakery, this can be used for customer feedback.
 <details><summary>User Story 5</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-4-5-12.png">
+<img src="/user-testing-form.png">
 </details>
 
 6. As a user, I want to be able to find recipes that KathyCakes offers.
 - The Recipes page is located on the navigation bar and provides a home page for all recipes on the site.
 <details><summary>User Story 6</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-6-14.png">
+<img src="/user/testing/recipes.png">
 </details>
 
 7. As a user, I want to find information about KathyCakes' social media.
 - Social Media links can be found in the footer of the website, this is on every page and uses icons of the logos of the social media sites for easily recognition.
 <details><summary>User Story 7</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-7.png">
 </details>
 
 8. As a user, I want to easily distinguish between different areas of information.
 - Different information areas can be found in several places on the website, the most detailed is on the individual recipe pages which highlights and seperates the ingredients and instructions sections. 
 <details><summary>User Story 8</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-8.png">
 </details>
 
 9. As an owner, I want to showcase products on sale at the bakery.
 - All of the images used are of products that are for sale in the bakery, this way highlighting them on all pages allows us to showcase them.
 <details><summary>User Story 9</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-9.png">
 </details>
 
 10. As an owner, I want to provide customers with information about the bakery.
 - Information about the bakery can easily be found right on the index.html page, either by scrolling down slightly depending on screen size or right on the landing page without movement.
 <details><summary>User Story 10</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-1-10-15.png">
 </details>
 
 11. As an owner, I want customers to easily find our bakery.
 - Information on where to find the bakery can easily be found by using the nav bar, and going to find us, this brings you to find.html which showcases a map, and also details the address.
 <details><summary>User Story 11</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-3-11.png">
+<img src="/user-testing-map.png">
 </details>
 
 12. As an owner, I want customers to be able to get in contact with us.
 - The contact us page which can be found by using the nav bar, and clicking contact us provides a form for customers to get in contact with the bakery.
 <details><summary>User Story 12</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-4-5-12.png">
+<img src="/user-testing-form.png">
 </details>
 
 13. As an owner, I want to provide customers with the featured recipes of the season.
 - Scrolling down the index.html page will bring you to the Signature Recipes section, where key highlighted recipes can be found. These are decided on the season, with Christmas being the latest theme! 
 <details><summary>User Story 13</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-13.png">
 </details>
 
 14. As an owner, I want customers to be able to find all of our recipes easily.
 - The recipes page located on the nav bar is accessible at all times and when clicked brings you to the page where all of the recipes are located.
 <details><summary>User Story 14</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-6-14.png">
+<img src="/user/testing/recipes.png">
 </details>
 
 15. As an owner, I want customers to find out about how we started.
 - On the index.html page, half way through the about us section we can find information about how KathyCakes started. This information is easy to access as is right on the home page of the website. 
 <details><summary>User Story 15</summary>
-<img src="">
+<img src="docs/user-story-testing/user-testing-1-10-15.png">
 </details>
 
