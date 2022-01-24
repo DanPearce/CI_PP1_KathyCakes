@@ -25,7 +25,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
     3. [Colour](#colour)
     4. [Fonts](#fonts)
     5. [Icons](#icons)
-4. [Website Features](#features)
+4. [Website Features](#website-features)
 5. [Technologies](#technologies)
     1. [Languages](#languages)
     2. [Frameworks and Other](#frameworks-and-other)
@@ -139,3 +139,50 @@ I have used three fonts in the creation of this website, [Meow Script](https://f
 
 ### Icons
 I used [favicon.io](https://favicon.io/) to create the favicon icons for the site with the [Meow Script](https://fonts.google.com/specimen/Meow+Script) font to stay consistent with styling. I also used icons from [Font Awesome](https://fontawesome.com/) to add the logos for social media networks in the footer.
+
+## Website Features
+
+### Navigation Bar & Footer
+- The navigation and footer sections can be found on all pages. These are here for ease of access around the site and to showcase social media sections at all times.
+- The nav bar is consistently placed at the top of the webpage for ease of access around the site. This is fixed into place no matter which page you visit!
+![Nav-Bar](/docs/features/feat-nav.png)
+![Footer](/docs/features/feat-foot.png)
+User Stories Implementation: 2, 7, 8, 9
+
+### Home About Us Section
+- The Home/About Us Section is a key area to get information about the bakery.
+- The section provides detail about how the bakery started, and also features a baked good at the top of the page.
+- The section is intended to provide users with some background so they can get familiar with the KathyCakes.
+![Home](/docs/features/feat-index.png)
+User Stories Implementation: 1, 10, 15
+
+### Signature Recipes Section
+- The Signature Recipes Section is here to highlight the bakery's featured recipes of the season.
+- The section is featured on the index page and lets customers know which dishes we think they should try out!
+![Signature](/docs/features/feat-signature.png)
+User Stories Implementation: 8, 9, 13
+
+### Recipes Page
+- The Recipes Page is the hub for all of the recipes that is offered on the site.
+- The page styles according to screen size and offers users a range to choose from.
+![Recipes](/docs/features/feat-recipes.png)
+User Stories Implementation: 6, 8, 9, 14
+
+### Individual Recipe Page's
+- The Individual Recipe Page's are all unique and there are six of them in total.
+- The recipes are featured with their own unique hero image to really highlight the food on offer.
+- These pages are designed with the user in mind to keep ingredients and instructions sectioned for ease of use.
+![Recipes-Individual](/docs/features/feat-recipes-indiv.png)
+User Stories Implementation: 8
+
+### Map
+- The Map allows us to pinpoint where the bakery is right on a map which is featured on the users device.
+- The Map is using the most popular online map in the world by Google and also features the address for more old school customers.
+![Map](/docs/features/feat-map.png)
+User Stories Implementation: 3, 11
+
+### Contact Form
+- The Contact Form has been implemented as a way for customers to get in contact with KathyCakes with ease.
+- The form can be used to enquire about orders or to leave feedback to the bakery. 
+![Contact](/docs/features/feat-contact.png)
+User Stories Implementation: 4, 5, 12
