@@ -376,3 +376,21 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 <img src="docs/user-story-testing/user-testing-1-10-15.png">
 </details>
 
+### Device and Browser Compatibility
+
+#### Device Testing
+The project was tested and viewed on numerous devices, all of which with no errors:
+- iPhone 12 Pro
+- Surface Pro 3
+- MacbookPro 16-inch
+- iPad Pro
+- Tested on various sizes and screen types using Google Chrome Developer Tools
+
+#### Browser Compatibility
+The project was tested and veiwed on the following browsers with no errors:
+- [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
+- [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox)
+- [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
+- [Apple Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
+
+
