@@ -17,9 +17,8 @@ The site is designed with ease in mind and is easy to naviagte for all ages. Wit
     3. [Target Audience] (#target-audience)
     4. [Customer Expectations] (#customer-expectations)
 2. [User Stories] (#user-stories)
-    1. [New User] (#new-user)
-    2. [Returning User] (#returning-user)
-    3. [Website Owner] (#webiste-owner)
+    1. [User] (user)
+    2. [Website Owner] (#webiste-owner)
 3. [Design] (#design)
     1. [Structure] (#structure)
     2. [Wireframes] (#wireframes)
@@ -69,4 +68,25 @@ The site is designed with ease in mind and is easy to naviagte for all ages. Wit
 - Consistent design throughout, including design on all types of screen sizes.
 - Fully functioning links, and no pages that lead to errors or dead links.
 - Accessibility throughout the website.
+
+##User Stories
+
+###User
+1. As a user, I want to easily find information about KathyCakes.
+2. As a user, I want to easily navigate throughout the site.
+3. As a user, I want to find information on how to find the bakery.
+4. As a user, I want to find a way to get in contact with KathyCakes about an order.
+5. As a user, I want to find a way to leave feedback to KathyCakes
+6. As a user, I want to be able to find recipes that KathyCakes offers.
+7. As a user, I want to find information about KathyCakes' social media.
+8. As a user, I want to easily distinguish between different areas of information.
+
+###Website Owner
+9. As an owner, I want to showcase products on sale at the bakery.
+10. As an owner, I want to provide customers with information about the bakery.
+11. As an owner, I want customers to easily find our bakery.
+12. As an owner, I want customers to be able to get in contact with us.
+13. As an owner, I want to provide customers with the featured recipes of the season. 
+14. As an owner, I want customers to be able to find all of our recipes easily.
+15. As an owner, I want customers to find out about how we started.
 
