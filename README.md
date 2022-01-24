@@ -17,7 +17,7 @@ The site is designed with ease in mind and is easy to naviagte for all ages. Wit
     3. [Target Audience] (#target-audience)
     4. [Customer Expectations] (#customer-expectations)
 2. [User Stories] (#user-stories)
-    1. [User] (user)
+    1. [User] (#user)
     2. [Website Owner] (#webiste-owner)
 3. [Design] (#design)
     1. [Structure] (#structure)
