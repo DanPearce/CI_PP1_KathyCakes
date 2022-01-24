@@ -10,7 +10,7 @@ KathyCakes is a site that helps to encourage people to bake and create their own
 
 The site is designed with ease in mind and is easy to navigate for all ages. With use of high quality images to showcase the cafe and with the end goal purpose of attracting more sales. 
 
-##Content
+## Content
 1. [Site Goals & Customer Experience] (#site-goals-&-customer-experience)
     1. [Customer Goals] (#customer-goals)
     2. [Website Owner Goals] (#website-owner-goals)
@@ -42,36 +42,36 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
     3. [Code]
 10. [Acknowledgements]
 
-##Site Goals & Customer Experience
+## Site Goals & Customer Experience
 
-###Customer Goals
+### Customer Goals
 - Easily find information about the bakery
 - Easily find information on how to find the bakery.
 - Get in touch with the bakery.
 
-###Website Owner Goals
+### Website Owner Goals
 - Provide an alterative way to allow customers to get in touch.
 - Provide a source of information about the bakery.
 - Provide recipes for customers to try at home.
 - Increase profits in store.
 - Increase awareness about the bakery.
 
-###Target Audience
+### Target Audience
 - Regulars at the bakery.
 - People who are looking to learn more about the bakery.
 - People who are looking for new baking recipes.
 - New customers who are looking to find the bakery.
 - Customers looking to get in touch about an order/about placing an order.
 
-###Customer Expectations
+### Customer Expectations
 - Easy to navigate with a functioning navigational bar.
 - Consistent design throughout, including design on all types of screen sizes.
 - Fully functioning links, and no pages that lead to errors or dead links.
 - Accessibility throughout the website.
 
-##User Stories
+## User Stories
 
-###User
+### User
 1. As a user, I want to easily find information about KathyCakes.
 2. As a user, I want to easily navigate throughout the site.
 3. As a user, I want to find information on how to find the bakery.
@@ -81,7 +81,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 7. As a user, I want to find information about KathyCakes' social media.
 8. As a user, I want to easily distinguish between different areas of information.
 
-###Website Owner
+### Website Owner
 9. As an owner, I want to showcase products on sale at the bakery.
 10. As an owner, I want to provide customers with information about the bakery.
 11. As an owner, I want customers to easily find our bakery.
@@ -90,25 +90,25 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 14. As an owner, I want customers to be able to find all of our recipes easily.
 15. As an owner, I want customers to find out about how we started.
 
-##Design 
+## Design 
 
-###Structure
+### Structure
 I wanted the structure of the site to be easy to navigate with clear headings and sections to split the pages up while also staying consistent with design. The website has a total of 11 pages 4 of which you have access to at all times using the navigation bar, 6 which are recipe pages and a 404 page.
 
-####Nav Bar Pages
+#### Nav Bar Pages
 These pages are what I would consider to be the 'most popular' pages, they include key information about the bakery.
 - 'KathyCakes' index.html to provide about us information and featured recipes.
 - recipes.html to provide a place to find all recipes featured on the site.
 - find.html to provide a page to give location information for the bakery.
 - contact.html to provide a page for customers to get in touch with KathyCakes.
 
-####Recipe Pages, Individual
+#### Recipe Pages, Individual
 The 6 individual recipe pages are each unique and provide information that is specifically for each recipe. They all include a detailed image and instructions on how to make each peice.
 
-####404 Page
+#### 404 Page
 This page has been implemented to provide a fall back in case of input error to ensure the user can remain on the site easily.
 
-###Wireframes
+### Wireframes
 <details><summary>Home Page</summary>
 <img src="docs/wireframes/index.png">
 </details>
@@ -126,7 +126,7 @@ This page has been implemented to provide a fall back in case of input error to 
 </details>
 
 
-###Colour
+### Colour
 
 
-###Fonts
+### Fonts
