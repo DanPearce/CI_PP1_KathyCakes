@@ -393,4 +393,21 @@ The project was tested and veiwed on the following browsers with no errors:
 - [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
 - [Apple Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
 
+## Bugs and Errors
 
+### HTML Bugs
+#### Image Errors
+- When I first ran the pages index.html and recipes.html through the validator the errors "Bad value 333px for attribute height on element img: Expected a digit but saw p instead." and "Bad value 500px for attribute width on element img: Expected a digit but saw p instead." were clear. This was because I didn't use styling within CSS for these elements. To fix this issue I simply added img {} to my CSS and styled accordingly.
+<details><summary>HTML Error</summary>
+<img src="docs/validation/html-error-validator.png">
+</details>
+
+- When I initially deployed the site for live viewing the header hero images were not showing on the site, this was because I had their sources set to "assets/css/images/xfilename.png", this obviously would create an error as we were already in the CSS file. To fix this I simply changed the source to "../images/xfilename.png".
+
+- The 404 error page includes a image of Kath, this was initially called "Kath.jpeg", when deployed to the live site, it didn't load so I changed the file name to "kath.jpeg" so it was all lowercase.
+
+#### Form Accessibility
+- When initially running the contact.html page through the accessibility validator the were some errors due to a label being wrongly named in the email input section, to fix this I changed the label and the page passed the test.
+<details><summary>Form Error</summary>
+<img src="docs/validation/error-access-contact.png">
+</details>
