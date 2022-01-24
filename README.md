@@ -11,7 +11,7 @@ KathyCakes is a site that helps to encourage people to bake and create their own
 The site is designed with ease in mind and is easy to navigate for all ages. With use of high quality images to showcase the cafe and with the end goal purpose of attracting more sales. 
 
 ## Content
-1. [Site Goals & Customer Experience](#site-goals-&-customer-experience)
+1. [Site Goals and Customer Experience](#site-goals-and-customer-experience)
     1. [Customer Goals](#customer-goals)
     2. [Website Owner Goals](#website-owner-goals)
     3. [Target Audience](#target-audience)
@@ -27,14 +27,14 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 4. [Website Features](#features)
 5. [Technologies](#technologies)
     1. [Languages](#languages)
-    2. [Frameworks & Other](#frameworks-&-other)
-6. [Validation & Testing](#validation-&-testing)
+    2. [Frameworks and Other](#frameworks-and-other)
+6. [Validation and Testing](#validation-and-testing)
     1. [HTML Validation](#html-validation)
     2. [CSS Validation](#css-validation)
     3. [Accessibility Validation](#accessibility-validation)
     4. [User Story Testing](#user-story-testing)
-    5. [Device and Browser Compatibility](#device-&-browser-compatibility)
-7. [Bugs & Errors](#bugs-&-errors)
+    5. [Device and Browser Compatibility](#device-and-browser-compatibility)
+7. [Bugs and Errors](#bugs-and-errors)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
     1. [Images](#images)
