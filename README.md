@@ -295,28 +295,28 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 - The Find Us page is dedicated for users to find the bakery, this is located in the nav bar for easy access.
 <details><summary>User Story 3</summary>
 <img src="docs/user-story-testing/user-testing-3-11.png">
-<img src="/user-testing-map.png">
+<img src="docs/user-story-testing/user-testing-map.png">
 </details>
 
 4. As a user, I want to find a way to get in contact with KathyCakes about an order.
 - The Contact Us Page is dedicated for users to contact the bakery, located on the nav bar, this can be used for orders.
 <details><summary>User Story 4</summary>
 <img src="docs/user-story-testing/user-testing-4-5-12.png">
-<img src="/user-testing-form.png">
+<img src="docs/user-story-testing/user-testing-form.png">
 </details>
 
 5. As a user, I want to find a way to leave feedback to KathyCakes
 - The Contact Us Page is dedicated for users to contact the bakery, this can be used for customer feedback.
 <details><summary>User Story 5</summary>
 <img src="docs/user-story-testing/user-testing-4-5-12.png">
-<img src="/user-testing-form.png">
+<img src="docs/user-story-testing/user-testing-form.png">
 </details>
 
 6. As a user, I want to be able to find recipes that KathyCakes offers.
 - The Recipes page is located on the navigation bar and provides a home page for all recipes on the site.
 <details><summary>User Story 6</summary>
 <img src="docs/user-story-testing/user-testing-6-14.png">
-<img src="/user/testing/recipes.png">
+<img src="docs/user-story-testing/user/testing/recipes.png">
 </details>
 
 7. As a user, I want to find information about KathyCakes' social media.
@@ -347,14 +347,14 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 - Information on where to find the bakery can easily be found by using the nav bar, and going to find us, this brings you to find.html which showcases a map, and also details the address.
 <details><summary>User Story 11</summary>
 <img src="docs/user-story-testing/user-testing-3-11.png">
-<img src="/user-testing-map.png">
+<img src="docs/user-story-testing/user-testing-map.png">
 </details>
 
 12. As an owner, I want customers to be able to get in contact with us.
 - The contact us page which can be found by using the nav bar, and clicking contact us provides a form for customers to get in contact with the bakery.
 <details><summary>User Story 12</summary>
 <img src="docs/user-story-testing/user-testing-4-5-12.png">
-<img src="/user-testing-form.png">
+<img src="docs/user-story-testing/user-testing-form.png">
 </details>
 
 13. As an owner, I want to provide customers with the featured recipes of the season.
@@ -367,7 +367,7 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 - The recipes page located on the nav bar is accessible at all times and when clicked brings you to the page where all of the recipes are located.
 <details><summary>User Story 14</summary>
 <img src="docs/user-story-testing/user-testing-6-14.png">
-<img src="/user/testing/recipes.png">
+<img src="docs/user-story-testing/user/testing/recipes.png">
 </details>
 
 15. As an owner, I want customers to find out about how we started.
