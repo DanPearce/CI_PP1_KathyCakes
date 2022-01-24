@@ -130,8 +130,8 @@ This page has been implemented to provide a fall back in case of input error to 
 ### Colour
 The initial styling of colour comes from the header hero image of which the color #3c4044 can be found amongst the background in some variation. I thought this would be a great color to use as it's a charcoal grey which falls easily on the eyes. I also decided to go with #ecedf4 as the off white to counter balance this colour. These two colours are used throughout the site and stay consistent with the theme. 
 
-I used WEBAIM.org to test the contrast of the two colors. 
-![Colours](docs/validation/colour.png)
+I used [WEBAIM.org](https://webaim.org/) to test the contrast of the two colors. 
+<img src="docs/validation/colour.png")
 
 
 ### Fonts
@@ -184,7 +184,7 @@ User Stories Implementation: 3, 11
 ### Contact Form
 - The Contact Form has been implemented as a way for customers to get in contact with KathyCakes with ease.
 - The form can be used to enquire about orders or to leave feedback to the bakery. 
-![Contact](docs/features/feat-contact.png)
+![Contact](docs/features/feat-form.png)
 User Stories Implementation: 4, 5, 12
 
 ## Technologies
@@ -260,7 +260,7 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 <img src="docs/validation/access-bpsm.png">
 </details>
 <details><summary>Chocolate Chip & Peanut Cookies Page</summary>
-<img src="docs/validation/access-ccpc-.png">
+<img src="docs/validation/access-ccpc.png">
 </details>
 <details><summary>Grandma's Signature Lemon Loaf Page</summary>
 <img src="docs/validation/access-gsll.png">
@@ -277,3 +277,5 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 <details><summary>Contact Us Page</summary>
 <img src="docs/validation/access-contact.png">
 </details>
+
+### User Story Testing
