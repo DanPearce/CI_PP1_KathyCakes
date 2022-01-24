@@ -1,7 +1,7 @@
 # KathyCakes - Bakery & Recipe Website
 Developed by, Dan Pearce
 
-![View the live site](https://danpearce.github.io/CI_PP1_KathyCakes/)
+[View the live site](https://danpearce.github.io/CI_PP1_KathyCakes/)
 
 ![Responsive](/docs/responsive/responsive-index.png)
 ![Responsive-rtc](/docs/responsive/responsive-rtc.png)
