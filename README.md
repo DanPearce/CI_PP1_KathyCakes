@@ -186,3 +186,18 @@ User Stories Implementation: 3, 11
 - The form can be used to enquire about orders or to leave feedback to the bakery. 
 ![Contact](/docs/features/feat-contact.png)
 User Stories Implementation: 4, 5, 12
+
+## Technologies
+
+### Languages
+- [HTML](https://en.wikipedia.org/wiki/HTML5)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks and Other
+- [GitHub](https://github.com/)
+- [GitPod](https://www.gitpod.io/)
+- [Font Awesome](https://fontawesome.com/)
+- [Balsamiq](https://balsamiq.com/)
+- [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+- [Google Fonts](https://fonts.google.com/)
+- [Favicon.io](https://favicon.io/)
