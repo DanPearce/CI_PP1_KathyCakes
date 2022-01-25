@@ -454,5 +454,14 @@ All recipes were sourced from the internet, please find their references below:
 - [Pink Grapefruit Muffins](https://danpearce.github.io/CI_PP1_KathyCakes/pink-grapefruit-muffins.html) by [Kimberly Killebrew](https://www.daringgourmet.com/about/) with site [Daring Gourmet](https://www.daringgourmet.com/) find their recipe [here](https://www.daringgourmet.com/pink-grapefruit-buttermilk-muffins/).
 
 ### Code
+- [HTML and CSS](https://www.htmlandcssbook.com/) by Jon Duckett - used to help me understand floats more clearly. 
+- [Mimo](https://getmimo.com/) used to help me understand using flex in the nav bar.
+- [GitHub](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) used to help me create a 404.html page for my site. 
+- [Code Acadamy](https://www.codecademy.com/) used to gain further knowledge in HTML and CSS.
 
 ## Acknowledgements
+I would like to thank:
+- Mo Shami, my mentor throughout this project who has provided me valuable information in many aspects.
+- Anybody on Code Institute's Slack who have provided valuable details over the last few weeks.
+- Katherin Slinn, who this website is built in honor of, for letting me create a fake website in her name.
+- To my dear partner, Harry, who has been my rock throughout building this site and has given me so much space where I needed it. 
