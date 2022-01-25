@@ -442,10 +442,16 @@ All stock images used:
 - [StockSnap_SVKREBA5TA.jpg](assets/images/StockSnap_SVKREBA5TA.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-food-SVKREBA5TA)
 - [StockSnap_VG2DQ2RTYC.jpg](assets/images/StockSnap_VG2DQ2RTYC.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/cupcake-dessert-VG2DQ2RTYC)
 404 Error Page Image:
-- [kath.jpeg](assets/images/kath.jpeg) provided by Kath, my good friend who this site is dedicated to - who does not wish her profile information to be made public. 
+- [kath.png](assets/images/kath.png) provided by Kath, my good friend who this site is dedicated to - who does not wish her profile information to be made public. 
 
 ### Recipes
-
+All recipes were sourced from the internet, please find their references below:
+- [Apple & Cinnamon Crumble Cupcakes](https://danpearce.github.io/CI_PP1_KathyCakes/apple-cinnamon-crumble-cupcakes.html) by [Manali](https://www.cookwithmanali.com/meetme/) with site [Cook With Manali](https://www.cookwithmanali.com/) find their recipe [here](https://www.cookwithmanali.com/apple-cinnamon-cupcakes/).
+- [Raspberry Twist Cupcakes](https://danpearce.github.io/CI_PP1_KathyCakes/raspberry-twist-cupcakes.html) by [Erin](https://thefrozenbiscuit.com/about/) with site [The Frozen Biscuit](https://thefrozenbiscuit.com/) find their recipe [here](https://thefrozenbiscuit.com/raspberry-cupcakes/).
+- [Grandma's Signature Lemon Loaf](https://danpearce.github.io/CI_PP1_KathyCakes/grandmas-signature-lemon-loaf.html) by [Emily Leary](https://www.amummytoo.co.uk/about-a-mummy-too/) with site [A Mummy Too](https://www.amummytoo.co.uk/) find their recipe [here](https://www.amummytoo.co.uk/the-worlds-best-lemon-drizzle-cake-recipe/).
+- [Banana & Pumpkin Seeded Muffins](https://danpearce.github.io/CI_PP1_KathyCakes/banana-pumpkin-seeded-muffins.html) by [Olive Magazine](https://www.olivemagazine.com/) with site [Olive Magazine.com](https://www.olivemagazine.com/) find their recipe [here](https://www.olivemagazine.com/recipes/family/banana-and-pumpkin-seed-muffins/).
+- [Chocolate Chip & Peanut Coookies](https://danpearce.github.io/CI_PP1_KathyCakes/chocolate-chip-peanut-cookies.html) by [Kristen Anderson](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4) with site [Taste.com.au](https://www.taste.com.au/) find their recipe [here](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4).
+- [Pink Grapefruit Muffins](https://danpearce.github.io/CI_PP1_KathyCakes/pink-grapefruit-muffins.html) by [Kimberly Killebrew](https://www.daringgourmet.com/about/) with site [Daring Gourmet](https://www.daringgourmet.com/) find their recipe [here](https://www.daringgourmet.com/pink-grapefruit-buttermilk-muffins/).
 
 ### Code
 
