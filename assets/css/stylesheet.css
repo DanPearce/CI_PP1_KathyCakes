@@ -671,6 +671,10 @@ header {
     }
 }
 
+header {
+    background-position: top;
+}
+
 @media only screen and (max-width:350px) {
     .nav-bar ul{
         justify-content: stretch;
