@@ -323,7 +323,7 @@ Result
 <details><summary>User Story 6</summary>
 <img src="docs/user-story-testing/user-testing-6-14.png">
 Result
-<img src="docs/user-story-testing/user/testing/recipes.png">
+<img src="docs/user-story-testing/user-testing-recipes.png">
 </details>
 
 7. As a user, I want to find information about KathyCakes' social media.
