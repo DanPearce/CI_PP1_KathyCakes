@@ -203,6 +203,7 @@ User Stories Implementation: 4, 5, 12
 - [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
 - [Google Fonts](https://fonts.google.com/)
 - [Favicon.io](https://favicon.io/)
+- [Tiny PNG](https://tinypng.com/)
 
 ## Validation and Testing
 
@@ -444,6 +445,7 @@ All stock images used:
 404 Error Page Image:
 - [kath.png](assets/images/kath.png) provided by Kath, my good friend who this site is dedicated to - who does not wish her profile information to be made public. 
 
+- [Tiny PNG](https://tinypng.com/) used to resize the images so they take less time to load.
 ### Recipes
 All recipes were sourced from the internet, please find their references below:
 - [Apple & Cinnamon Crumble Cupcakes](https://danpearce.github.io/CI_PP1_KathyCakes/apple-cinnamon-crumble-cupcakes.html) by [Manali](https://www.cookwithmanali.com/meetme/) with site [Cook With Manali](https://www.cookwithmanali.com/) find their recipe [here](https://www.cookwithmanali.com/apple-cinnamon-cupcakes/).
