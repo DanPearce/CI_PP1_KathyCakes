@@ -8,7 +8,7 @@ Developed by, Dan Pearce
 
 KathyCakes is a site that helps to encourage people to bake and create their own versions of the popular dishes from the KathyCakes Cafe. The website is intended to be a hub of information about the cafe and is here to help people get in touch with the cafe. The site offers a range of recipes too to help encourage people to try it at home themselves!
 
-The site is designed with ease in mind and is easy to navigate for all ages. With use of high quality images to showcase the cafe and with the end goal purpose of attracting more sales. 
+The site is designed with ease in mind and is easy to navigate for all ages. With use of high-quality images to showcase the cafe and with the end goal purpose of attracting more sales. 
 
 ## Content
 1. [Site Goals and Customer Experience](#site-goals-and-customer-experience)
@@ -43,7 +43,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
     3. [Code](#code)
 10. [Acknowledgements](#acknowledgements)
 
-## Site Goals & Customer Experience
+## Site Goals and Customer Experience
 
 ### Customer Goals
 - Easily find information about the bakery
@@ -51,7 +51,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 - Get in touch with the bakery.
 
 ### Website Owner Goals
-- Provide an alterative way to allow customers to get in touch.
+- Provide an alternative way to allow customers to get in touch.
 - Provide a source of information about the bakery.
 - Provide recipes for customers to try at home.
 - Increase profits in store.
@@ -88,13 +88,13 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 11. As an owner, I want customers to easily find our bakery.
 12. As an owner, I want customers to be able to get in contact with us.
 13. As an owner, I want to provide customers with the featured recipes of the season. 
-14. As an owner, I want customers to be able to find all of our recipes easily.
+14. As an owner, I want customers to be able to find all our recipes easily.
 15. As an owner, I want customers to find out about how we started.
 
 ## Design 
 
 ### Structure
-I wanted the structure of the site to be easy to navigate with clear headings and sections to split the pages up while also staying consistent with design. The website has a total of 11 pages 4 of which you have access to at all times using the navigation bar, 6 which are recipe pages and a 404 page.
+I wanted the structure of the site to be easy to navigate with clear headings and sections to split the pages up while also staying consistent with design. The website has a total of 11 pages 4 of which you always have access to using the navigation bar, 6 which are recipe pages and a 404 page.
 
 #### Nav Bar Pages
 These pages are what I would consider to be the 'most popular' pages, they include key information about the bakery.
@@ -104,7 +104,7 @@ These pages are what I would consider to be the 'most popular' pages, they inclu
 - contact.html to provide a page for customers to get in touch with KathyCakes.
 
 #### Recipe Pages, Individual
-The 6 individual recipe pages are each unique and provide information that is specifically for each recipe. They all include a detailed image and instructions on how to make each peice.
+The 6 individual recipe pages are each unique and provide information that is specifically for each recipe. They all include a detailed image and instructions on how to make each piece.
 
 #### 404 Page
 This page has been implemented to provide a fall back in case of input error to ensure the user can remain on the site easily.
@@ -128,16 +128,16 @@ This page has been implemented to provide a fall back in case of input error to 
 
 
 ### Colour
-The initial styling of colour comes from the header hero image of which the color #3c4044 can be found amongst the background in some variation. I thought this would be a great color to use as it's a charcoal grey which falls easily on the eyes. I also decided to go with #ecedf4 as the off white to counter balance this colour. These two colours are used throughout the site and stay consistent with the theme. 
+The initial styling of colour comes from the header hero image of which the colour #3c4044 can be found amongst the background in some variation. I thought this would be a great colour to use as it's a charcoal grey which falls easily on the eyes. I also decided to go with #ecedf4 as the off white to counterbalance this colour. These two colours are used throughout the site and stay consistent with the theme. 
 
-I used [WEBAIM.org](https://webaim.org/) to test the contrast of the two colors.
+I used [WEBAIM.org](https://webaim.org/) to test the contrast of the two colours.
 <details><section>Colour Contrast</section> 
 <img src="docs/validation/colour.png">
 </details>
 
 
 ### Fonts
-I have used three fonts in the creation of this website, [Meow Script](https://fonts.google.com/specimen/Meow+Script) for the Logo, as this gives a more unique feel. [Montserrat](https://fonts.google.com/specimen/Montserrat) for the navigational sections in uppercase as this to me felt like it stood out. Finally [Nunito](https://fonts.google.com/specimen/Nunito) was used for the main body sections as I felt this made the site easy to read and not too harsh on the eye.
+I have used three fonts in the creation of this website, [Meow Script](https://fonts.google.com/specimen/Meow+Script) for the Logo, as this gives a more unique feel. [Montserrat](https://fonts.google.com/specimen/Montserrat) for the navigational sections in uppercase as this to me felt like it stood out. Finally, [Nunito](https://fonts.google.com/specimen/Nunito) was used for the main body sections as I felt this made the site easy to read and not too harsh on the eye.
 
 ### Icons
 I used [favicon.io](https://favicon.io/) to create the favicon icons for the site with the [Meow Script](https://fonts.google.com/specimen/Meow+Script) font to stay consistent with styling. I also used icons from [Font Awesome](https://fontawesome.com/) to add the logos for social media networks in the footer.
@@ -145,7 +145,7 @@ I used [favicon.io](https://favicon.io/) to create the favicon icons for the sit
 ## Website Features
 
 ### Navigation Bar & Footer
-- The navigation and footer sections can be found on all pages. These are here for ease of access around the site and to showcase social media sections at all times.
+- The navigation and footer sections can be found on all pages. These are here for ease of access around the site and to always showcase social media sections.
 - The nav bar is consistently placed at the top of the webpage for ease of access around the site. This is fixed into place no matter which page you visit!
 ![Nav-Bar](docs/features/feat-nav.png)
 ![Footer](docs/features/feat-foot.png)
@@ -153,7 +153,7 @@ User Stories Implementation: 2, 7, 8, 9
 
 ### Home About Us Section
 - The Home/About Us Section is a key area to get information about the bakery.
-- The section provides detail about how the bakery started, and also features a baked good at the top of the page.
+- The section provides detail about how the bakery started, and features a baked good at the top of the page.
 - The section is intended to provide users with some background so they can get familiar with the KathyCakes.
 ![Home](docs/features/feat-index.png)
 User Stories Implementation: 1, 10, 15
@@ -171,15 +171,15 @@ User Stories Implementation: 8, 9, 13
 User Stories Implementation: 6, 8, 9, 14
 
 ### Individual Recipe Page's
-- The Individual Recipe Page's are all unique and there are six of them in total.
+- The Individual Recipe Pages are all unique and there are six of them in total.
 - The recipes are featured with their own unique hero image to really highlight the food on offer.
 - These pages are designed with the user in mind to keep ingredients and instructions sectioned for ease of use.
 ![Recipes-Individual](docs/features/feat-recipes-indiv.png)
 User Stories Implementation: 8
 
 ### Map
-- The Map allows us to pinpoint where the bakery is right on a map which is featured on the users device.
-- The Map is using the most popular online map in the world by Google and also features the address for more old school customers.
+- The Map allows us to pinpoint where the bakery is right on a map which is featured on the user's device.
+- The Map is using the most popular online map in the world by Google and features the address for more old school customers.
 ![Map](docs/features/feat-map.png)
 User Stories Implementation: 3, 11
 
@@ -208,7 +208,7 @@ User Stories Implementation: 4, 5, 12
 ## Validation and Testing
 
 ### HTML Validation
-All of the HTML pages were tested using the [W3C Markup Validation Service] in order validate the correct function of this site. All pages have passed with no errors or warnings.
+All the HTML pages were tested using the [W3C Markup Validation Service] in order validate the correct function of this site. All pages have passed with no errors or warnings.
 
 <details><summary>Home Page</summary>
 <img src="docs/validation/index-validation.png">
@@ -249,7 +249,7 @@ The [W3C Jigsaw Validation Service](https://jigsaw.w3.org/css-validator/) was us
 </details>
 
 ### Accessibility Validation
-The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was used to test the accesibility function of the website, all pages have passed with no errors.
+The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was used to test the accessibility function of the website, all pages have passed with no errors.
 <details><summary>Home Page</summary>
 <img src="docs/validation/access-index.png">
 </details>
@@ -295,7 +295,7 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 </details>
 
 3. As a user, I want to find information on how to find the bakery.
-- The Find Us page is dedicated for users to find the bakery, this is located in the nav bar for easy access.
+- The Find Us page is dedicated for users to find the bakery; this is located in the nav bar for easy access.
 <details><summary>User Story 3</summary>
 <img src="docs/user-story-testing/user-testing-3-11.png">
 Result
@@ -311,7 +311,7 @@ Result
 </details>
 
 5. As a user, I want to find a way to leave feedback to KathyCakes
-- The Contact Us Page is dedicated for users to contact the bakery, this can be used for customer feedback.
+- The Contact Us Page is dedicated for users to contact the bakery; this can be used for customer feedback.
 <details><summary>User Story 5</summary>
 <img src="docs/user-story-testing/user-testing-4-5-12.png">
 Result
@@ -333,13 +333,13 @@ Result
 </details>
 
 8. As a user, I want to easily distinguish between different areas of information.
-- Different information areas can be found in several places on the website, the most detailed is on the individual recipe pages which highlights and seperates the ingredients and instructions sections. 
+- Different information areas can be found in several places on the website, the most detailed is on the individual recipe pages which highlights and separates the ingredients and instructions sections. 
 <details><summary>User Story 8</summary>
 <img src="docs/user-story-testing/user-testing-8.png">
 </details>
 
 9. As an owner, I want to showcase products on sale at the bakery.
-- All of the images used are of products that are for sale in the bakery, this way highlighting them on all pages allows us to showcase them.
+- All the images used are of products that are for sale in the bakery, this way highlighting them on all pages allows us to showcase them.
 <details><summary>User Story 9</summary>
 <img src="docs/user-story-testing/user-testing-9.png">
 </details>
@@ -351,7 +351,7 @@ Result
 </details>
 
 11. As an owner, I want customers to easily find our bakery.
-- Information on where to find the bakery can easily be found by using the nav bar, and going to find us, this brings you to find.html which showcases a map, and also details the address.
+- Information on where to find the bakery can easily be found by using the nav bar, and going to find us, this brings you to find.html which showcases a map, and details the address.
 <details><summary>User Story 11</summary>
 <img src="docs/user-story-testing/user-testing-3-11.png">
 Result
@@ -359,7 +359,7 @@ Result
 </details>
 
 12. As an owner, I want customers to be able to get in contact with us.
-- The contact us page which can be found by using the nav bar, and clicking contact us provides a form for customers to get in contact with the bakery.
+- The contact us page which can be found by using the nav bar and clicking contact us provides a form for customers to get in contact with the bakery.
 <details><summary>User Story 12</summary>
 <img src="docs/user-story-testing/user-testing-4-5-12.png">
 Result
@@ -372,8 +372,8 @@ Result
 <img src="docs/user-story-testing/user-testing-13.png">
 </details>
 
-14. As an owner, I want customers to be able to find all of our recipes easily.
-- The recipes page located on the nav bar is accessible at all times and when clicked brings you to the page where all of the recipes are located.
+14. As an owner, I want customers to be able to find all our recipes easily.
+- The recipes page located on the nav bar is always accessible and when clicked brings you to the page where all of the recipes are located.
 <details><summary>User Story 14</summary>
 <img src="docs/user-story-testing/user-testing-6-14.png">
 Result
@@ -381,7 +381,7 @@ Result
 </details>
 
 15. As an owner, I want customers to find out about how we started.
-- On the index.html page, half way through the about us section we can find information about how KathyCakes started. This information is easy to access as is right on the home page of the website. 
+- On the index.html page, halfway through the about us section we can find information about how KathyCakes started. This information is easy to access as is right on the home page of the website. 
 <details><summary>User Story 15</summary>
 <img src="docs/user-story-testing/user-testing-1-10-15.png">
 </details>
@@ -397,7 +397,7 @@ The project was tested and viewed on numerous devices, all of which with no erro
 - Tested on various sizes and screen types using Google Chrome Developer Tools
 
 #### Browser Compatibility
-The project was tested and veiwed on the following browsers with no errors:
+The project was tested and viewed on the following browsers with no errors:
 - [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
 - [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox)
 - [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
@@ -414,21 +414,21 @@ The project was tested and veiwed on the following browsers with no errors:
 
 - When I initially deployed the site for live viewing the header hero images were not showing on the site, this was because I had their sources set to "assets/css/images/xfilename.png", this obviously would create an error as we were already in the CSS file. To fix this I simply changed the source to "../images/xfilename.png".
 
-- The 404 error page includes a image of Kath, this was initially called "Kath.jpeg", when deployed to the live site, it didn't load so I changed the file name to "kath.jpeg" so it was all lowercase.
+- The 404-error page includes a image of Kath, this was initially called "Kath.jpeg", when deployed to the live site, it didn't load so I changed the file name to "kath.jpeg" so it was all lowercase.
 
 #### Form Accessibility
-- When initially running the contact.html page through the accessibility validator the were some errors due to a label being wrongly named in the email input section, to fix this I changed the label and the page passed the test.
+- When initially running the contact.html page through the accessibility validator the were some errors due to a label being wrongly named in the email input section, to fix this I changed the label, and the page passed the test.
 <details><summary>Form Error</summary>
 <img src="docs/validation/error-access-contact.png">
 </details>
 
 ## Deployment
 This website was deployed using GitHub Pages by using the following steps:
-1. I went to GitHub.com and from the left hand side I clikced on this repository.
+1. I went to GitHub.com and from the left-hand side I clicked on this repository.
 2. I navigated to the Settings section.
 3. I scrolled down to the Pages section.
-4. In the source drop down I selected main, and (root) and then clikced save.
-5. This proceed to generate a site using this repo.
+4. In the source drop down I selected main, and (root) and then clicked save.
+5. This proceeds to generate a site using this repo.
 6. I waited 10 minutes to allow the site to load, then after waiting a link appeared that brings us to the live site. 
 
 ## Credits
@@ -452,18 +452,18 @@ All recipes were sourced from the internet, please find their references below:
 - [Raspberry Twist Cupcakes](https://danpearce.github.io/CI_PP1_KathyCakes/raspberry-twist-cupcakes.html) by [Erin](https://thefrozenbiscuit.com/about/) with site [The Frozen Biscuit](https://thefrozenbiscuit.com/) find their recipe [here](https://thefrozenbiscuit.com/raspberry-cupcakes/).
 - [Grandma's Signature Lemon Loaf](https://danpearce.github.io/CI_PP1_KathyCakes/grandmas-signature-lemon-loaf.html) by [Emily Leary](https://www.amummytoo.co.uk/about-a-mummy-too/) with site [A Mummy Too](https://www.amummytoo.co.uk/) find their recipe [here](https://www.amummytoo.co.uk/the-worlds-best-lemon-drizzle-cake-recipe/).
 - [Banana & Pumpkin Seeded Muffins](https://danpearce.github.io/CI_PP1_KathyCakes/banana-pumpkin-seeded-muffins.html) by [Olive Magazine](https://www.olivemagazine.com/) with site [Olive Magazine.com](https://www.olivemagazine.com/) find their recipe [here](https://www.olivemagazine.com/recipes/family/banana-and-pumpkin-seed-muffins/).
-- [Chocolate Chip & Peanut Coookies](https://danpearce.github.io/CI_PP1_KathyCakes/chocolate-chip-peanut-cookies.html) by [Kristen Anderson](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4) with site [Taste.com.au](https://www.taste.com.au/) find their recipe [here](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4).
+- [Chocolate Chip & Peanut Cookies](https://danpearce.github.io/CI_PP1_KathyCakes/chocolate-chip-peanut-cookies.html) by [Kristen Anderson](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4) with site [Taste.com.au](https://www.taste.com.au/) find their recipe [here](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4).
 - [Pink Grapefruit Muffins](https://danpearce.github.io/CI_PP1_KathyCakes/pink-grapefruit-muffins.html) by [Kimberly Killebrew](https://www.daringgourmet.com/about/) with site [Daring Gourmet](https://www.daringgourmet.com/) find their recipe [here](https://www.daringgourmet.com/pink-grapefruit-buttermilk-muffins/).
 
 ### Code
 - [HTML and CSS](https://www.htmlandcssbook.com/) by Jon Duckett - used to help me understand floats more clearly. 
 - [Mimo](https://getmimo.com/) used to help me understand using flex in the nav bar.
 - [GitHub](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) used to help me create a 404.html page for my site. 
-- [Code Acadamy](https://www.codecademy.com/) used to gain further knowledge in HTML and CSS.
+- [Code Academy](https://www.codecademy.com/) used to gain further knowledge in HTML and CSS.
 
 ## Acknowledgements
 I would like to thank:
 - Mo Shami, my mentor throughout this project who has provided me valuable information in many aspects.
 - Anybody on Code Institute's Slack who have provided valuable details over the last few weeks.
-- Katherin Slinn, who this website is built in honor of, for letting me create a fake website in her name.
+- Katherine Slinn, who this website is built for, for letting me create a website in her name.
 - To my dear partner, Harry, who has been my rock throughout building this site and has given me so much space where I needed it. 
