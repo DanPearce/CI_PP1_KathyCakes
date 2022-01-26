@@ -33,9 +33,9 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
     - [HTML Validation](#html-validation)
     - [CSS Validation](#css-validation)
     - [Accessibility Validation](#accessibility-validation)
-    - [User Story Testing](#user-story-testing)
-    - [Lighthouse](#lighthouse)
+    - [Performance Validation](#performance-validation)
     - [Device and Browser Compatibility](#device-and-browser-compatibility)
+    - [User Story Testing](#user-story-testing)
 7. [Bugs and Errors](#bugs-and-errors)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
@@ -282,6 +282,48 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 <img src="docs/validation/access-contact.png">
 </details>
 
+### Lighthouse
+Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are awarded a green mark - with more time I would look into the issues on the two pages that didn't quite meet the green mark. I used [Tiny PNG](https://tinypng.com/) to help fix most of the issues on my initial performance results.
+<details><summary></summary>
+<img src="">
+</details>
+<details><summary>Index</summary>
+<img src="docs/lighthouse/lighthouse-index.png">
+</details><details><summary>Recipes</summary>
+<img src="docs/lighthouse/lighthouse-recipes.png">
+</details><details><summary>Find Us</summary>
+<img src="docs/lighthouse/lighthouse-find.png">
+</details><details><summary>Contact Us</summary>
+<img src="docs/lighthouse/lighthouse-contact.png">
+</details><details><summary>Apple & Cinnamon Crumble Cupcakes</summary>
+<img src="docs/lighthouse/lighthouse-accc.png">
+</details><details><summary>Chocolate Chip & Peanut Cookies</summary>
+<img src="docs/lighthouse/lighthouse-ccpc.png">
+</details><details><summary>Grandma's Signature Lemon Loaf</summary>
+<img src="docs/lighthouse/lighthouse-gsll.png">
+</details><details><summary>Pink Grapefruit Muffins</summary>
+<img src="docs/lighthouse/lighthouse-pgm.png">
+</details><details><summary>Raspberry Twist Cupcakes</summary>
+<img src="docs/lighthouse/lighthouse-rtc.png">
+</details>
+
+### Device and Browser Compatibility
+
+#### Device Testing
+The project was tested and viewed on numerous devices, all of which with no errors:
+- iPhone 12 Pro
+- Surface Pro 3
+- MacbookPro 16-inch
+- iPad Pro
+- Tested on various sizes and screen types using Google Chrome Developer Tools
+
+#### Browser Compatibility
+The project was tested and viewed on the following browsers with no errors:
+- [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
+- [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox)
+- [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
+- [Apple Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
+
 ### User Story Testing
 1. As a user, I want to easily find information about KathyCakes.
 - Information about KathyCakes can easily be found right on the index.html page, either by scrolling down slightly depending on screen size or right on the landing page without movement.
@@ -386,48 +428,6 @@ Result
 <details><summary>User Story 15</summary>
 <img src="docs/user-story-testing/user-testing-1-10-15.png">
 </details>
-
-### Lighthouse
-Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are awarded a green mark - with more time I would look into the issues on the two pages that didn't quite meet the green mark. I used [Tiny PNG](https://tinypng.com/) to help fix most of the issues on my initial performance results.
-<details><summary></summary>
-<img src="">
-</details>
-<details><summary>Index</summary>
-<img src="docs/lighthouse/lighthouse-index.png">
-</details><details><summary>Recipes</summary>
-<img src="docs/lighthouse/lighthouse-recipes.png">
-</details><details><summary>Find Us</summary>
-<img src="docs/lighthouse/lighthouse-find.png">
-</details><details><summary>Contact Us</summary>
-<img src="docs/lighthouse/lighthouse-contact.png">
-</details><details><summary>Apple & Cinnamon Crumble Cupcakes</summary>
-<img src="docs/lighthouse/lighthouse-accc.png">
-</details><details><summary>Chocolate Chip & Peanut Cookies</summary>
-<img src="docs/lighthouse/lighthouse-ccpc.png">
-</details><details><summary>Grandma's Signature Lemon Loaf</summary>
-<img src="docs/lighthouse/lighthouse-gsll.png">
-</details><details><summary>Pink Grapefruit Muffins</summary>
-<img src="docs/lighthouse/lighthouse-pgm.png">
-</details><details><summary>Raspberry Twist Cupcakes</summary>
-<img src="docs/lighthouse/lighthouse-rtc.png">
-</details>
-
-### Device and Browser Compatibility
-
-#### Device Testing
-The project was tested and viewed on numerous devices, all of which with no errors:
-- iPhone 12 Pro
-- Surface Pro 3
-- MacbookPro 16-inch
-- iPad Pro
-- Tested on various sizes and screen types using Google Chrome Developer Tools
-
-#### Browser Compatibility
-The project was tested and viewed on the following browsers with no errors:
-- [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
-- [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox)
-- [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
-- [Apple Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
 
 ## Bugs and Errors
 
