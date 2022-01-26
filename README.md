@@ -216,7 +216,7 @@ User Stories Implementation: 16
 ## Validation and Testing
 
 ### HTML Validation
-All the HTML pages were tested using the [W3C Markup Validation Service] in order validate the correct function of this site. All pages have passed with no errors or warnings.
+All the HTML pages were tested using the [W3C Markup Validation Service](https://validator.w3.org/) in order validate the correct function of this site. All pages have passed with no errors or warnings.
 
 <details><summary>Home Page</summary>
 <img src="docs/validation/index-validation.png">
