@@ -290,6 +290,9 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 <details><summary>Contact Us Page</summary>
 <img src="docs/validation/access-contact.png">
 </details>
+<details><summary>404 Error Page</summary>
+<img src="docs/validation/access-404.png">
+</details>
 
 ### Performance and Validation
 Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are awarded a green mark - with more time I would look into the issues on the two pages that didn't quite meet the green mark. I used [Tiny PNG](https://tinypng.com/) to help fix most of the issues on my initial performance results.
@@ -447,7 +450,7 @@ Result
 </details>
 
 16. As an owner, I want customers to be able to navigate back to the home page if they access a link that does not exist on the site.
-- If you access a mis-spelled page or a page that doesn't exist on the site, you are brought to the 404 error page, this page features a link that navigates the user back to the home page.
+- If you access a misspelt page or a page that doesn't exist on the site, you are brought to the 404 error page, this page features a link that navigates the user back to the home page.
 <details><summary>User Story 16</summary>
 <img src="docs/user-story-testing/user-testing-16.png">
 </details>
@@ -455,7 +458,6 @@ Result
 ## Bugs and Errors
 
 ### HTML Bugs
-#### Image Errors
 - When I first ran the pages index.html and recipes.html through the validator the errors "Bad value 333px for attribute height on element img: Expected a digit but saw p instead." and "Bad value 500px for attribute width on element img: Expected a digit but saw p instead." were clear. This was because I didn't use styling within CSS for these elements. To fix this issue I simply added img {} to my CSS and styled accordingly.
 <details><summary>HTML IMG Error</summary>
 <img src="docs/validation/html-error-validator.png">
@@ -470,11 +472,17 @@ Result
 <img src="docs/validation/error-validation-404.png">
 </details>
 
-#### Form Accessibility
+#### Accessibility Bugs
 - When initially running the contact.html page through the accessibility validator the were some errors due to a label being wrongly named in the email input section, to fix this I changed the label, and the page passed the test.
 <details><summary>Form Error</summary>
 <img src="docs/validation/error-access-contact.png">
 </details>
+
+- When initially running the 404.html page through the accessibility validator, there were errors due to contrast as I had forgotten to change the css for the 'error' section to change the colour. This was easily fixed by modifying the CSS slightly.
+<details><summary>404 Error</summary>
+<img src="docs/validation/error-access-404.png">
+</details>
+
 
 ## Deployment
 This website was deployed using GitHub Pages by using the following steps:
