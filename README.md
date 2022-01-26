@@ -294,7 +294,7 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 <img src="docs/validation/access-404.png">
 </details>
 
-### Performance and Validation
+### Performance Validation
 Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are awarded a green mark - with more time I would look into the issues on the two pages that didn't quite meet the green mark. I used [Tiny PNG](https://tinypng.com/) to help fix most of the issues on my initial performance results.
 <details><summary>Index</summary>
 <img src="docs/lighthouse/lighthouse-index.png">
@@ -325,6 +325,9 @@ Lighthouse in the Google Chrome Developer Tools was used to test the performance
 </details>
 <details><summary>Raspberry Twist Cupcakes</summary>
 <img src="docs/lighthouse/lighthouse-rtc.png">
+</details>
+<details><summary>404 Error Page</summary>
+<img src="docs/validation/lighthouse-404.png">
 </details>
 
 ### Device and Browser Compatibility
