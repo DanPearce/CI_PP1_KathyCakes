@@ -41,7 +41,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 9. [Credits](#credits)
     - [Images](#images)
     - [Recipes](#recipes)
-    - [Code](#code)
+    3. [Code](#code)
 10. [Acknowledgements](#acknowledgements)
 
 ## Site Goals and Customer Experience
@@ -392,7 +392,25 @@ Lighthouse in the Google Chrome Developer Tools was used to test the performance
 <details><summary></summary>
 <img src="">
 </details>
-
+<details><summary>Index</summary>
+<img src="docs/lighthouse/lighthouse-index.png">
+</details><details><summary>Recipes</summary>
+<img src="docs/lighthouse/lighthouse-recipes.png">
+</details><details><summary>Find Us</summary>
+<img src="docs/lighthouse/lighthouse-find.png">
+</details><details><summary>Contact Us</summary>
+<img src="docs/lighthouse/lighthouse-contact.png">
+</details><details><summary>Apple & Cinnamon Crumble Cupcakes</summary>
+<img src="docs/lighthouse/lighthouse-accc.png">
+</details><details><summary>Chocolate Chip & Peanut Cookies</summary>
+<img src="docs/lighthouse/lighthouse-ccpc.png">
+</details><details><summary>Grandma's Signature Lemon Loaf</summary>
+<img src="docs/lighthouse/lighthouse-gsll.png">
+</details><details><summary>Pink Grapefruit Muffins</summary>
+<img src="docs/lighthouse/lighthouse-pgm.png">
+</details><details><summary>Raspberry Twist Cupcakes</summary>
+<img src="docs/lighthouse/lighthouse-rtc.png">
+</details>
 
 ### Device and Browser Compatibility
 
