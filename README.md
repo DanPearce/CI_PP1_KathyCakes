@@ -41,7 +41,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 9. [Credits](#credits)
     - [Images](#images)
     - [Recipes](#recipes)
-    3. [Code](#code)
+    - [Code](#code)
 10. [Acknowledgements](#acknowledgements)
 
 ## Site Goals and Customer Experience
