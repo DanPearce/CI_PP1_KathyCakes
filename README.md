@@ -388,7 +388,7 @@ Result
 </details>
 
 ### Lighthouse
-Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are rewareded a green pass - with more time I would look into the issues on the two pages that didn't quite meet the green. I used [Tiny PNG]() to help fix most of the issues on my initial performance results.
+Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are awarded a green mark - with more time I would look into the issues on the two pages that didn't quite meet the green mark. I used [Tiny PNG](https://tinypng.com/) to help fix most of the issues on my initial performance results.
 <details><summary></summary>
 <img src="">
 </details>
