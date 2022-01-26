@@ -91,6 +91,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 13. As an owner, I want to provide customers with the featured recipes of the season. 
 14. As an owner, I want customers to be able to find all our recipes easily.
 15. As an owner, I want customers to find out about how we started.
+16. As an owner, I want customers to be able to navigate back to the home page if they access a link that does not exist on the site.
 
 ## Design 
 
@@ -190,6 +191,12 @@ User Stories Implementation: 3, 11
 ![Contact](docs/features/feat-form.png)
 User Stories Implementation: 4, 5, 12
 
+### 404 Error Page
+- The 404 error page has been implemented as a fallback if a user inputs the wrong link on the site, or if the page on the site doesn't exist.
+- This page features a button that navigates them back to the home page.
+![404 Error](docs/features/feat-404.png)
+User Stories Implementation: 16
+
 ## Technologies
 
 ### Languages
@@ -282,28 +289,36 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 <img src="docs/validation/access-contact.png">
 </details>
 
-### Lighthouse
+### Performance and Validation
 Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are awarded a green mark - with more time I would look into the issues on the two pages that didn't quite meet the green mark. I used [Tiny PNG](https://tinypng.com/) to help fix most of the issues on my initial performance results.
-<details><summary></summary>
-<img src="">
-</details>
 <details><summary>Index</summary>
 <img src="docs/lighthouse/lighthouse-index.png">
-</details><details><summary>Recipes</summary>
+</details>
+<details><summary>Recipes</summary>
 <img src="docs/lighthouse/lighthouse-recipes.png">
-</details><details><summary>Find Us</summary>
+</details>
+<details><summary>Find Us</summary>
 <img src="docs/lighthouse/lighthouse-find.png">
-</details><details><summary>Contact Us</summary>
+</details>
+<details><summary>Contact Us</summary>
 <img src="docs/lighthouse/lighthouse-contact.png">
-</details><details><summary>Apple & Cinnamon Crumble Cupcakes</summary>
+</details>
+<details><summary>Apple & Cinnamon Crumble Cupcakes</summary>
 <img src="docs/lighthouse/lighthouse-accc.png">
-</details><details><summary>Chocolate Chip & Peanut Cookies</summary>
+</details>
+<details><summary>Banana & Pumpkin Seeded Muffins</summary>
+<img src="docs/lighthouse/lighthouse-bpsm.png">
+</details>
+<details><summary>Chocolate Chip & Peanut Cookies</summary>
 <img src="docs/lighthouse/lighthouse-ccpc.png">
-</details><details><summary>Grandma's Signature Lemon Loaf</summary>
+</details>
+<details><summary>Grandma's Signature Lemon Loaf</summary>
 <img src="docs/lighthouse/lighthouse-gsll.png">
-</details><details><summary>Pink Grapefruit Muffins</summary>
+</details>
+<details><summary>Pink Grapefruit Muffins</summary>
 <img src="docs/lighthouse/lighthouse-pgm.png">
-</details><details><summary>Raspberry Twist Cupcakes</summary>
+</details>
+<details><summary>Raspberry Twist Cupcakes</summary>
 <img src="docs/lighthouse/lighthouse-rtc.png">
 </details>
 
@@ -427,6 +442,12 @@ Result
 - On the index.html page, halfway through the about us section we can find information about how KathyCakes started. This information is easy to access as is right on the home page of the website. 
 <details><summary>User Story 15</summary>
 <img src="docs/user-story-testing/user-testing-1-10-15.png">
+</details>
+
+16. As an owner, I want customers to be able to navigate back to the home page if they access a link that does not exist on the site.
+- If you access a mis-spelled page or a page that doesn't exist on the site, you are brought to the 404 error page, this page features a link that navigates the user back to the home page.
+<details><summary>User Story 16</summary>
+<img src="docs/user-story-testing/user-testing-16.png">
 </details>
 
 ## Bugs and Errors
