@@ -497,12 +497,15 @@ header {
     width: 100%;
     background-color: #ecedf4;
     text-align: center;
+    color:#3c4044;
+    padding-top: 10px;
 }
 
 .kath {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 .katherine {

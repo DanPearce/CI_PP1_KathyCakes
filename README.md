@@ -248,7 +248,9 @@ All the HTML pages were tested using the [W3C Markup Validation Service] in orde
 <details><summary>Contact Us Page</summary>
 <img src="docs/validation/contact-validation.png">
 </details>
-
+<details><summary>404 Page</summary>
+<img src="docs/validation/404-validation.png">
+</details>
 
 ### CSS Validation
 The [W3C Jigsaw Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the correct CSS of this website. The CSS has passed with no errors
@@ -455,13 +457,18 @@ Result
 ### HTML Bugs
 #### Image Errors
 - When I first ran the pages index.html and recipes.html through the validator the errors "Bad value 333px for attribute height on element img: Expected a digit but saw p instead." and "Bad value 500px for attribute width on element img: Expected a digit but saw p instead." were clear. This was because I didn't use styling within CSS for these elements. To fix this issue I simply added img {} to my CSS and styled accordingly.
-<details><summary>HTML Error</summary>
+<details><summary>HTML IMG Error</summary>
 <img src="docs/validation/html-error-validator.png">
 </details>
 
 - When I initially deployed the site for live viewing the header hero images were not showing on the site, this was because I had their sources set to "assets/css/images/xfilename.png", this obviously would create an error as we were already in the CSS file. To fix this I simply changed the source to "../images/xfilename.png".
 
 - The 404-error page includes a image of Kath, this was initially called "Kath.jpeg", when deployed to the live site, it didn't load so I changed the file name to "kath.jpeg" so it was all lowercase.
+
+- The 404-error page didn't pass the first time in the valiator as the 'error' class section didn't include a header, to fix this I included a header with some more description on the page.
+<details><summary>HTML Header Error</summary>
+<img src="docs/validation/error-validation-404.png">
+</details>
 
 #### Form Accessibility
 - When initially running the contact.html page through the accessibility validator the were some errors due to a label being wrongly named in the email input section, to fix this I changed the label, and the page passed the test.
