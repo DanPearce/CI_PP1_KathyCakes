@@ -12,35 +12,36 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
 
 ## Content
 1. [Site Goals and Customer Experience](#site-goals-and-customer-experience)
-    1. [Customer Goals](#customer-goals)
-    2. [Website Owner Goals](#website-owner-goals)
-    3. [Target Audience](#target-audience)
-    4. [Customer Expectations](#customer-expectations)
+    - [Customer Goals](#customer-goals)
+    - [Website Owner Goals](#website-owner-goals)
+    - [Target Audience](#target-audience)
+    - [Customer Expectations](#customer-expectations)
 2. [User Stories](#user-stories)
-    1. [User](#user)
-    2. [Website Owner](#webiste-owner)
+    - [User](#user)
+    - [Website Owner](#webiste-owner)
 3. [Design](#design)
-    1. [Structure](#structure)
-    2. [Wireframes](#wireframes)
-    3. [Colour](#colour)
-    4. [Fonts](#fonts)
-    5. [Icons](#icons)
+    - [Structure](#structure)
+    - [Wireframes](#wireframes)
+    - [Colour](#colour)
+    - [Fonts](#fonts)
+    - [Icons](#icons)
 4. [Website Features](#website-features)
 5. [Technologies](#technologies)
-    1. [Languages](#languages)
-    2. [Frameworks and Other](#frameworks-and-other)
+    - [Languages](#languages)
+    - [Frameworks and Other](#frameworks-and-other)
 6. [Validation and Testing](#validation-and-testing)
-    1. [HTML Validation](#html-validation)
-    2. [CSS Validation](#css-validation)
-    3. [Accessibility Validation](#accessibility-validation)
-    4. [User Story Testing](#user-story-testing)
-    5. [Device and Browser Compatibility](#device-and-browser-compatibility)
+    - [HTML Validation](#html-validation)
+    - [CSS Validation](#css-validation)
+    - [Accessibility Validation](#accessibility-validation)
+    - [User Story Testing](#user-story-testing)
+    - [Lighthouse](#lighthouse)
+    - [Device and Browser Compatibility](#device-and-browser-compatibility)
 7. [Bugs and Errors](#bugs-and-errors)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
-    1. [Images](#images)
-    2. [Recipes](#recipes)
-    3. [Code](#code)
+    - [Images](#images)
+    - [Recipes](#recipes)
+    - [Code](#code)
 10. [Acknowledgements](#acknowledgements)
 
 ## Site Goals and Customer Experience
@@ -385,6 +386,13 @@ Result
 <details><summary>User Story 15</summary>
 <img src="docs/user-story-testing/user-testing-1-10-15.png">
 </details>
+
+### Lighthouse
+Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are rewareded a green pass - with more time I would look into the issues on the two pages that didn't quite meet the green. I used [Tiny PNG]() to help fix most of the issues on my initial performance results.
+<details><summary></summary>
+<img src="">
+</details>
+
 
 ### Device and Browser Compatibility
 
