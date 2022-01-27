@@ -18,7 +18,7 @@ The site is designed with ease in mind and is easy to navigate for all ages. Wit
     - [Customer Expectations](#customer-expectations)
 2. [User Stories](#user-stories)
     - [User](#user)
-    - [Website Owner](#webiste-owner)
+    - [Website Owner](#website-owner)
 3. [Design](#design)
     - [Structure](#structure)
     - [Wireframes](#wireframes)
