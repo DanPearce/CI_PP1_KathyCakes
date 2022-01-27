@@ -327,7 +327,7 @@ Lighthouse in the Google Chrome Developer Tools was used to test the performance
 <img src="docs/lighthouse/lighthouse-rtc.png">
 </details>
 <details><summary>404 Error Page</summary>
-<img src="docs/validation/lighthouse-404.png">
+<img src="docs/lighthouse/lighthouse-404.png">
 </details>
 
 ### Device and Browser Compatibility
