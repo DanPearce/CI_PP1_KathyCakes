@@ -499,18 +499,19 @@ This website was deployed using GitHub Pages by using the following steps:
 ## Credits
 
 ### Images
-All stock images used:
-- [StockSnap_DRMAQNM3XT.jpg](/assets/images/StockSnap_DRMAQNM3XT.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-muffins-DRMAQNM3XT)
-- [StockSnap_EQRBUSHVRN.jpg](assets/images/StockSnap_EQRBUSHVRN.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/slice-cake-EQRBUSHVRN)
-- [StockSnap_OQFHR7KGN6.jpg](assets/images/StockSnap_OQFHR7KGN6.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/cupcake-dessert-OQFHR7KGN6)
-- [StockSnap_AVQS8DBY2Q.jpg](assets/images/StockSnap_AVQS8DBY2Q.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-cookies-AVQS8DBY2Q)
-- [StockSnap_FQ5PQADGZ2.jpg](assets/images/StockSnap_FQ5PQADGZ2.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-muffins-FQ5PQADGZ2)
-- [StockSnap_SVKREBA5TA.jpg](assets/images/StockSnap_SVKREBA5TA.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-food-SVKREBA5TA)
-- [StockSnap_VG2DQ2RTYC.jpg](assets/images/StockSnap_VG2DQ2RTYC.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/cupcake-dessert-VG2DQ2RTYC)
-404 Error Page Image:
+#### All stock images used:
+- [muffins-tin.jpg](/assets/images/muffins-tin.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-muffins-DRMAQNM3XT)
+- [lemon-loaf.jpg](assets/images/lemon-loaf.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/slice-cake-EQRBUSHVRN)
+- [apple-cupcakes.jpg](assets/images/apple-cupcakes.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/cupcake-dessert-OQFHR7KGN6)
+- [cookies.jpg](assets/images/cookies.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-cookies-AVQS8DBY2Q)
+- [muffins-dish.jpg](assets/images/muffins-dish.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-muffins-FQ5PQADGZ2)
+- [grapefruit-muffins.jpg](assets/images/grapefruit-muffins.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-food-SVKREBA5TA)
+- [raspberry-cupcakes.jpg](assets/images/raspberry-cupcakes.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/cupcake-dessert-VG2DQ2RTYC)
+
+#### 404 Error Page Image:
 - [kath.png](assets/images/kath.png) provided by Kath, my good friend who this site is dedicated to - who does not wish her profile information to be made public. 
 
-- [Tiny PNG](https://tinypng.com/) used to resize the images so they take less time to load.
+- [Tiny PNG](https://tinypng.com/) used to resize all images so they take less time to load.
 ### Recipes
 All recipes were sourced from the internet, please find their references below:
 - [Apple & Cinnamon Crumble Cupcakes](https://danpearce.github.io/CI_PP1_KathyCakes/apple-cinnamon-crumble-cupcakes.html) by [Manali](https://www.cookwithmanali.com/meetme/) with site [Cook With Manali](https://www.cookwithmanali.com/) find their recipe [here](https://www.cookwithmanali.com/apple-cinnamon-cupcakes/).
