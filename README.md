@@ -499,7 +499,7 @@ This website was deployed using GitHub Pages by using the following steps:
 ## Credits
 
 ### Images
-#### All stock images used:
+#### All stock images used:
 - [muffins-tin.jpg](/assets/images/muffins-tin.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/baked-muffins-DRMAQNM3XT)
 - [lemon-loaf.jpg](assets/images/lemon-loaf.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/slice-cake-EQRBUSHVRN)
 - [apple-cupcakes.jpg](assets/images/apple-cupcakes.jpg) by [Foodie Girl](https://stocksnap.io/author/foodiegirl) with [StockSnap](https://stocksnap.io/) [Image on External Site](https://stocksnap.io/photo/cupcake-dessert-OQFHR7KGN6)
