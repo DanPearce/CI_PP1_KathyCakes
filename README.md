@@ -155,7 +155,7 @@ User Stories Implementation: 2, 7, 8, 9
 
 ### Home About Us Section
 - The Home/About Us Section is a key area to get information about the bakery.
-- The section provides detail about how the bakery started, and features a baked good at the top of the page.
+- The section provides detail about how the bakery started and features a baked good at the top of the page.
 - The section is intended to provide users with some background so they can get familiar with the KathyCakes.
 ![Home](docs/features/feat-index.png)
 User Stories Implementation: 1, 10, 15
@@ -295,7 +295,7 @@ The [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/) was use
 </details>
 
 ### Performance Validation
-Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are awarded a green mark - with more time I would look into the issues on the two pages that didn't quite meet the green mark. I used [Tiny PNG](https://tinypng.com/) to help fix most of the issues on my initial performance results.
+Lighthouse in the Google Chrome Developer Tools was used to test the performance of the website, most pages are awarded a green mark - with more time I would investigate the issues on the two pages that didn't quite meet the green mark. I used [Tiny PNG](https://tinypng.com/) to help fix most of the issues on my initial performance results.
 <details><summary>Index</summary>
 <img src="docs/lighthouse/lighthouse-index.png">
 </details>
@@ -453,7 +453,7 @@ Result
 </details>
 
 16. As an owner, I want customers to be able to navigate back to the home page if they access a link that does not exist on the site.
-- If you access a misspelt page or a page that doesn't exist on the site, you are brought to the 404 error page, this page features a link that navigates the user back to the home page.
+- If you access a misspelt page or a page that doesn't exist on the site, you are brought to the 404-error page, this page features a link that navigates the user back to the home page.
 <details><summary>User Story 16</summary>
 <img src="docs/user-story-testing/user-testing-16.png">
 </details>
@@ -470,7 +470,7 @@ Result
 
 - The 404-error page includes a image of Kath, this was initially called "Kath.jpeg", when deployed to the live site, it didn't load so I changed the file name to "kath.jpeg" so it was all lowercase.
 
-- The 404-error page didn't pass the first time in the valiator as the 'error' class section didn't include a header, to fix this I included a header with some more description on the page.
+- The 404-error page didn't pass the first time in the validator as the 'error' class section didn't include a header, to fix this I included a header with some more description on the page.
 <details><summary>HTML Header Error</summary>
 <img src="docs/validation/error-validation-404.png">
 </details>
@@ -481,7 +481,7 @@ Result
 <img src="docs/validation/error-access-contact.png">
 </details>
 
-- When initially running the 404.html page through the accessibility validator, there were errors due to contrast as I had forgotten to change the css for the 'error' section to change the colour. This was easily fixed by modifying the CSS slightly.
+- When initially running the 404.html page through the accessibility validator, there were errors due to contrast as I had forgotten to change the CSS for the 'error' section to change the colour. This was easily fixed by modifying the CSS slightly.
 <details><summary>404 Error</summary>
 <img src="docs/validation/error-access-404.png">
 </details>
