@@ -1,5 +1,7 @@
+/*Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Meow+Script&family=Montserrat&family=Nunito&display=swap');
 
+/*Main Body*/
 body {
     background-color: #3c4044;
     color: #ecedf4;
@@ -47,6 +49,7 @@ ul {
     padding: 0;
 }
 
+/*Index Page*/
 header {
     text-align: center;
     padding-top: 75px;
@@ -59,6 +62,7 @@ header {
     margin: 0;
 }
 
+/*About Us Section*/
 .about-us {
     display: block;
     text-align: center;
@@ -74,6 +78,7 @@ header {
     color: #ecedf4;
 }
 
+/*Signature Recipes Section*/
 #signature {
     display: inline-block;
     text-align: center;
@@ -104,6 +109,7 @@ img {
     text-decoration: none;
     color:#ecedf4;
 }
+
 .sig-3 a {
     text-decoration: none;
     color: #3c4044;
@@ -115,6 +121,7 @@ img {
     width: 34%;
 }
 
+/*Footer*/
 footer {
     background-color: #3c4044;
     color: #ecedf4;
@@ -139,8 +146,7 @@ footer a {
     text-transform: lowercase;
 }
 
-/* recipes.html page styles */
-
+/*Recipes Page*/
 .recipes-header {
     text-align: center;
     padding-top: 75px;
@@ -153,6 +159,7 @@ footer a {
     margin: 0;
 }
 
+/*Recipes Section*/
 .recipes {
     background-color: #ecedf4;
     color: #3c4044;
@@ -227,6 +234,7 @@ footer a {
     width: 100%;
     margin: 0;
 }
+
 .recipes-gsll-header{
     text-align: center;
     padding-top: 75px;
@@ -238,6 +246,7 @@ footer a {
     width: 100%;
     margin: 0;
 }
+
 .recipes-pgm-header{
     text-align: center;
     padding-top: 75px;
@@ -249,6 +258,7 @@ footer a {
     width: 100%;
     margin: 0;
 }
+
 .recipes-rtc-header{
     text-align: center;
     padding-top: 75px;
@@ -261,6 +271,7 @@ footer a {
     margin: 0;
 }
 
+/*Recipe Section*/
 .recipe-pages {
     background-color: #ecedf4;
     text-align: center;
@@ -331,6 +342,7 @@ footer a {
     color: #3c4044;
 }
 
+/*Ingredients Section*/
 .ingredients {
     color: #ecedf4;
     padding: 0 5% 0% 5%;
@@ -361,6 +373,7 @@ h4 {
     text-decoration: underline;
 }
 
+/*Instructions Section*/
 .instructions {
     background-color: #ecedf4;
     color: #3c4044;
@@ -371,11 +384,7 @@ h4 {
     text-align: left;
 }
 
- 
-
-
-/* Find Us Page */
-
+/*Find Us Page*/
 .find-header {
     text-align: center;
     padding-top: 75px;
@@ -389,6 +398,7 @@ h4 {
     color:#3c4044;
 }
 
+/*Find Us Section*/
 .find-us {
     background-color: #ecedf4;
     color: #3c4044;
@@ -399,6 +409,7 @@ h4 {
     height: 800px;
 }
 
+/*Map Area*/
 iframe {
     background-color: #3c4044;
     padding: 5px;
@@ -417,8 +428,7 @@ iframe {
     padding-top: 150px;
 }
 
-/* Contact Us Page */
-
+/*Contact Us Page*/
 header {
     text-align: center;
     padding-top: 75px;
@@ -431,6 +441,7 @@ header {
     margin: 0;
 }
 
+/*Contact Us Section*/
 .contact-us {
     background-color: #ecedf4;
     color: #3c4044;
@@ -441,6 +452,7 @@ header {
     height: 900px;
 }
 
+/*Form*/
 .form-area {
     color: #3c4044;
     max-width: 400px;
@@ -490,8 +502,7 @@ header {
     color: #3c4044;
 }
 
-/* 404 Page */
-
+/*404 Page*/
 .error {
     height: 500px;
     width: 100%;
@@ -533,10 +544,12 @@ header {
 }
 
 /* Responsive Design */
+/*Screen Sizes with width 1770px or smaller*/
 @media only screen and (max-width:1770px) {
     .recipe-pages-rtc {
         height: 1560px;
     }
+
     .recipe-accc-page {
         background-color: #ecedf4;
         text-align: center;
@@ -546,17 +559,17 @@ header {
         padding-bottom: 1%;
         color: #3c4044;
     }
-    }
+}
 
-
+/*Screen Sizes with width 1300px or smaller*/
 @media only screen and (max-width:1300px){
     .recipe-pgm-page {
         height: 1000px;
     }
 }
 
+/*Screen Sizes with width 1200px or smaller*/
 @media only screen and (max-width:1200px) {
-
     .sig-1, .sig-2, .sig-3 {
         text-align: center;
         width: 100%;
@@ -605,6 +618,7 @@ header {
     }
 }
 
+/*Screen Sizes with width 950px or smaller*/
 @media only screen and (max-width:950px){
     header, .recipes-header, .recipes-rtc-header, .recipes-pgm-header, .recipes-gsll-header, .recipes-ccpc-header, .recipes-bpsm-header, .recipes-accc-header, .find-header {
         height: 35vh;
@@ -658,6 +672,7 @@ header {
     
 }
 
+/*Screen Sizes with width 650px or smaller*/
 @media only screen and (max-width:650px) {
     iframe {
         width: 300px;
@@ -672,13 +687,13 @@ header {
         font-size: 20px;
         padding-right: 5px;
     }
+
     header {
         background-position: top;
     }
 }
 
-
-
+/*Screen Sizes with width 350px or smaller*/
 @media only screen and (max-width:350px) {
     .nav-bar ul{
         justify-content: stretch;
@@ -709,6 +724,7 @@ header {
     .recipe-accc-page p {
         font-size: 1em;
     }
+    
     .recipe-pages-rtc p {
         font-size: 1em;
     }
@@ -720,10 +736,12 @@ header {
     ul {
         padding: 0;
     }
+
    #logo {
        font-size: 20px;
        padding-right: 5px;
    }
+
     footer {
         font-size: 1em;
     }
