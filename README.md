@@ -1,7 +1,7 @@
 # KathyCakes - Bakery & Recipe Website
 Developed by, Dan Pearce
 
-[View the live site](https://danpearce.github.io/CI_PP1_KathyCakes/)
+[View the live site](https://kathycakes.danielpearce.co.uk/)
 
 ![Responsive](docs/responsive/responsive-index.png)
 ![Responsive-rtc](docs/responsive/responsive-rtc.png)
@@ -514,12 +514,12 @@ This website was deployed using GitHub Pages by using the following steps:
 - [Tiny PNG](https://tinypng.com/) used to resize all images so they take less time to load.
 ### Recipes
 All recipes were sourced from the internet, please find their references below:
-- [Apple & Cinnamon Crumble Cupcakes](https://danpearce.github.io/CI_PP1_KathyCakes/apple-cinnamon-crumble-cupcakes.html) by [Manali](https://www.cookwithmanali.com/meetme/) with site [Cook With Manali](https://www.cookwithmanali.com/) find their recipe [here](https://www.cookwithmanali.com/apple-cinnamon-cupcakes/).
-- [Raspberry Twist Cupcakes](https://danpearce.github.io/CI_PP1_KathyCakes/raspberry-twist-cupcakes.html) by [Erin](https://thefrozenbiscuit.com/about/) with site [The Frozen Biscuit](https://thefrozenbiscuit.com/) find their recipe [here](https://thefrozenbiscuit.com/raspberry-cupcakes/).
-- [Grandma's Signature Lemon Loaf](https://danpearce.github.io/CI_PP1_KathyCakes/grandmas-signature-lemon-loaf.html) by [Emily Leary](https://www.amummytoo.co.uk/about-a-mummy-too/) with site [A Mummy Too](https://www.amummytoo.co.uk/) find their recipe [here](https://www.amummytoo.co.uk/the-worlds-best-lemon-drizzle-cake-recipe/).
-- [Banana & Pumpkin Seeded Muffins](https://danpearce.github.io/CI_PP1_KathyCakes/banana-pumpkin-seeded-muffins.html) by [Olive Magazine](https://www.olivemagazine.com/) with site [Olive Magazine.com](https://www.olivemagazine.com/) find their recipe [here](https://www.olivemagazine.com/recipes/family/banana-and-pumpkin-seed-muffins/).
-- [Chocolate Chip & Peanut Cookies](https://danpearce.github.io/CI_PP1_KathyCakes/chocolate-chip-peanut-cookies.html) by [Kristen Anderson](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4) with site [Taste.com.au](https://www.taste.com.au/) find their recipe [here](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4).
-- [Pink Grapefruit Muffins](https://danpearce.github.io/CI_PP1_KathyCakes/pink-grapefruit-muffins.html) by [Kimberly Killebrew](https://www.daringgourmet.com/about/) with site [Daring Gourmet](https://www.daringgourmet.com/) find their recipe [here](https://www.daringgourmet.com/pink-grapefruit-buttermilk-muffins/).
+- [Apple & Cinnamon Crumble Cupcakes](https://kathycakes.danielpearce.co.uk/apple-cinnamon-crumble-cupcakes.html) by [Manali](https://www.cookwithmanali.com/meetme/) with site [Cook With Manali](https://www.cookwithmanali.com/) find their recipe [here](https://www.cookwithmanali.com/apple-cinnamon-cupcakes/).
+- [Raspberry Twist Cupcakes](https://kathycakes.danielpearce.co.uk/raspberry-twist-cupcakes.html) by [Erin](https://thefrozenbiscuit.com/about/) with site [The Frozen Biscuit](https://thefrozenbiscuit.com/) find their recipe [here](https://thefrozenbiscuit.com/raspberry-cupcakes/).
+- [Grandma's Signature Lemon Loaf](https://kathycakes.danielpearce.co.uk/grandmas-signature-lemon-loaf.html) by [Emily Leary](https://www.amummytoo.co.uk/about-a-mummy-too/) with site [A Mummy Too](https://www.amummytoo.co.uk/) find their recipe [here](https://www.amummytoo.co.uk/the-worlds-best-lemon-drizzle-cake-recipe/).
+- [Banana & Pumpkin Seeded Muffins](https://kathycakes.danielpearce.co.uk/banana-pumpkin-seeded-muffins.html) by [Olive Magazine](https://www.olivemagazine.com/) with site [Olive Magazine.com](https://www.olivemagazine.com/) find their recipe [here](https://www.olivemagazine.com/recipes/family/banana-and-pumpkin-seed-muffins/).
+- [Chocolate Chip & Peanut Cookies](https://kathycakes.danielpearce.co.uk/chocolate-chip-peanut-cookies.html) by [Kristen Anderson](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4) with site [Taste.com.au](https://www.taste.com.au/) find their recipe [here](https://www.taste.com.au/recipes/choc-chip-peanut-biscuits/f2cb10d8-5554-461f-a268-18739f1ea0f4).
+- [Pink Grapefruit Muffins](https://kathycakes.danielpearce.co.uk/pink-grapefruit-muffins.html) by [Kimberly Killebrew](https://www.daringgourmet.com/about/) with site [Daring Gourmet](https://www.daringgourmet.com/) find their recipe [here](https://www.daringgourmet.com/pink-grapefruit-buttermilk-muffins/).
 
 ### Code
 - [HTML and CSS](https://www.htmlandcssbook.com/) by Jon Duckett - used to help me understand floats more clearly. 
