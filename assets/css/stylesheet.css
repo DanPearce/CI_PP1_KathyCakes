@@ -748,11 +748,5 @@ header {
 }
 /*Portfolio header: the site navigation sits below the fixed portfolio bar*/
 .dp-has-bar .nav-bar {
-    top: 64px;
-}
-/*The site styles every header element as the hero image; keep the portfolio bar plain*/
-header.dp-bar {
-    padding: 0;
-    background-image: none;
-    text-align: left;
+    top: var(--dp-header-height);
 }
